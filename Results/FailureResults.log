@@ -1,0 +1,3265 @@
+[12:12:35.630]: Namenode-0 heartbeat monitor created
+
+[12:12:35.687]: Namenode-1 heartbeat monitor created
+
+[12:12:35.688]: Namenode-2 heartbeat monitor created
+
+[12:12:35.726]: Namenode-3 heartbeat monitor created
+
+[12:12:35.746]: Namenode-4 heartbeat monitor created
+
+[12:12:35.762]: Namenode-6 heartbeat monitor created
+
+[12:12:35.795]: Namenode-5 heartbeat monitor created
+
+[12:12:35.796]: Namenode-7 heartbeat monitor created
+
+[12:12:35.840]: Namenode-8 heartbeat monitor created
+
+[12:12:35.876]: Namenode-9 heartbeat monitor created
+
+[12:12:35.876]: Started Workload Generator . . .
+
+[12:13:15.911]: Started NodeKiller . . .
+
+[12:13:25.959]: Datanode #3_123 has failed . . .
+
+[12:13:35.746]: Namenode #3 has detected a failure in Datanode #3_123
+
+[12:13:35.746]: Repearing node #3_123: Namenode has scheduled to repair block #1230_3, FailTime: 1453797815746
+
+[12:13:35.746]: Repearing node #3_123: Namenode has scheduled to repair block #1280_3, FailTime: 1453797815746
+
+[12:13:35.746]: Repearing node #3_123: Namenode has scheduled to repair block #1330_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #1380_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #1430_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #1480_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #1530_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #1580_3, FailTime: 1453797815746
+
+[12:13:35.747]: Repearing node #3_123: Namenode has scheduled to repair block #30_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #80_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #130_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #180_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #230_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #280_3, FailTime: 1453797815746
+
+[12:13:35.748]: Repearing node #3_123: Namenode has scheduled to repair block #330_3, FailTime: 1453797815746
+
+[12:13:35.749]: Repearing node #3_123: Namenode has scheduled to repair block #380_3, FailTime: 1453797815746
+
+[12:13:35.749]: Repearing node #3_123: Namenode has scheduled to repair block #2030_3, FailTime: 1453797815746
+
+[12:13:35.749]: Repearing node #3_123: Namenode has scheduled to repair block #2280_3, FailTime: 1453797815746
+
+[12:13:35.749]: Repearing node #3_123: Namenode has scheduled to repair block #2080_3, FailTime: 1453797815746
+
+[12:13:35.749]: Repearing node #3_123: Namenode has scheduled to repair block #2130_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #2180_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #2230_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #1630_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #1680_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #1880_3, FailTime: 1453797815746
+
+[12:13:35.750]: Repearing node #3_123: Namenode has scheduled to repair block #1930_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #1830_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #1780_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #1730_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #1980_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #2330_3, FailTime: 1453797815746
+
+[12:13:35.751]: Repearing node #3_123: Namenode has scheduled to repair block #2380_3, FailTime: 1453797815746
+
+[12:13:42.370]: Datanode #3_0 has received a block #1630_3, and TTR is: 6624
+
+[12:13:42.370]: Datanode #3_0 has received a block #30_3, and TTR is: 6624
+
+[12:13:42.370]: Datanode #3_0 has received a block #1230_3, and TTR is: 6624
+
+[12:13:47.315]: Datanode #3_0 has received a block #1680_3, and TTR is: 11569
+
+[12:13:47.315]: Datanode #3_0 has received a block #80_3, and TTR is: 11569
+
+[12:13:47.315]: Datanode #3_0 has received a block #1280_3, and TTR is: 11569
+
+[12:13:52.322]: Datanode #3_0 has received a block #1880_3, and TTR is: 16576
+
+[12:13:52.879]: Datanode #3_0 has received a block #130_3, and TTR is: 17133
+
+[12:13:52.879]: Datanode #3_0 has received a block #1330_3, and TTR is: 17133
+
+[12:13:57.771]: Datanode #3_0 has received a block #1930_3, and TTR is: 22025
+
+[12:13:57.771]: Datanode #3_0 has received a block #180_3, and TTR is: 22025
+
+[12:13:57.771]: Datanode #3_0 has received a block #1380_3, and TTR is: 22025
+
+[12:14:02.747]: Datanode #3_0 has received a block #1830_3, and TTR is: 27001
+
+[12:14:02.747]: Datanode #3_0 has received a block #230_3, and TTR is: 27001
+
+[12:14:02.747]: Datanode #3_0 has received a block #1430_3, and TTR is: 27001
+
+[12:14:07.703]: Datanode #3_0 has received a block #1780_3, and TTR is: 31957
+
+[12:14:08.236]: Datanode #3_0 has received a block #280_3, and TTR is: 32490
+
+[12:14:08.236]: Datanode #3_0 has received a block #1480_3, and TTR is: 32490
+
+[12:14:15.415]: Datanode #3_0 has received a block #1730_3, and TTR is: 39669
+
+[12:14:15.415]: Datanode #3_0 has received a block #330_3, and TTR is: 39669
+
+[12:14:15.415]: Datanode #3_0 has received a block #1530_3, and TTR is: 39669
+
+[12:14:20.325]: Datanode #3_0 has received a block #1980_3, and TTR is: 44579
+
+[12:14:20.888]: Datanode #3_0 has received a block #1580_3, and TTR is: 45142
+
+[12:14:20.888]: Datanode #3_0 has received a block #380_3, and TTR is: 45142
+
+[12:14:25.810]: Datanode #3_0 has received a block #2030_3, and TTR is: 50064
+
+[12:14:30.755]: Datanode #3_0 has received a block #2280_3, and TTR is: 55009
+
+[12:14:36.243]: Datanode #3_0 has received a block #2080_3, and TTR is: 60497
+
+[12:14:41.176]: Datanode #3_0 has received a block #2130_3, and TTR is: 65430
+
+[12:14:46.161]: Datanode #3_0 has received a block #2180_3, and TTR is: 70415
+
+[12:14:51.073]: Datanode #3_0 has received a block #2230_3, and TTR is: 75327
+
+[12:14:56.572]: Datanode #3_0 has received a block #2330_3, and TTR is: 80826
+
+[12:15:01.530]: Datanode #3_0 has received a block #2380_3, and TTR is: 85784
+
+[12:15:01.530]: Datanode #3_123 is repeared. TTR is: 85784
+
+[12:15:06.006]: Datanode #5_87 has failed . . .
+
+[12:15:15.544]: Namenode #5 has detected a failure in Datanode #5_87
+
+[12:15:15.544]: Repearing node #5_87: Namenode has scheduled to repair block #2021_3, FailTime: 1453797915544
+
+[12:15:15.544]: Repearing node #5_87: Namenode has scheduled to repair block #2071_3, FailTime: 1453797915544
+
+[12:15:15.545]: Repearing node #5_87: Namenode has scheduled to repair block #2121_3, FailTime: 1453797915544
+
+[12:15:15.545]: Repearing node #5_87: Namenode has scheduled to repair block #2171_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #2221_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #2271_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #2321_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #2371_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #3821_3, FailTime: 1453797915544
+
+[12:15:15.546]: Repearing node #5_87: Namenode has scheduled to repair block #3721_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #3671_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #3771_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #3621_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #3971_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #1221_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #1271_3, FailTime: 1453797915544
+
+[12:15:15.547]: Repearing node #5_87: Namenode has scheduled to repair block #1321_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #1521_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #1421_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #1471_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #1571_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #1371_3, FailTime: 1453797915544
+
+[12:15:15.548]: Repearing node #5_87: Namenode has scheduled to repair block #2471_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2771_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2621_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2421_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2521_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2721_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2671_3, FailTime: 1453797915544
+
+[12:15:15.549]: Repearing node #5_87: Namenode has scheduled to repair block #2571_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #2971_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #3171_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #2871_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #3021_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #3121_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #3071_3, FailTime: 1453797915544
+
+[12:15:15.550]: Repearing node #5_87: Namenode has scheduled to repair block #2821_3, FailTime: 1453797915544
+
+[12:15:15.551]: Repearing node #5_87: Namenode has scheduled to repair block #2921_3, FailTime: 1453797915544
+
+[12:15:15.551]: Repearing node #5_87: Namenode has scheduled to repair block #3921_3, FailTime: 1453797915544
+
+[12:15:15.551]: Repearing node #5_87: Namenode has scheduled to repair block #3871_3, FailTime: 1453797915544
+
+[12:15:16.350]: Datanode #5_0 has received a block #2021_3, and TTR is: 806
+
+[12:15:16.900]: Datanode #5_0 has received a block #2471_3, and TTR is: 1356
+
+[12:15:16.900]: Datanode #5_0 has received a block #2971_3, and TTR is: 1356
+
+[12:15:17.985]: Datanode #5_0 has received a block #3821_3, and TTR is: 2441
+
+[12:15:21.837]: Datanode #5_0 has received a block #2071_3, and TTR is: 6293
+
+[12:15:21.837]: Datanode #5_0 has received a block #2771_3, and TTR is: 6293
+
+[12:15:21.837]: Datanode #5_0 has received a block #3171_3, and TTR is: 6293
+
+[12:15:22.973]: Datanode #5_0 has received a block #3721_3, and TTR is: 7429
+
+[12:15:26.932]: Datanode #5_0 has received a block #2621_3, and TTR is: 11388
+
+[12:15:26.932]: Datanode #5_0 has received a block #2871_3, and TTR is: 11388
+
+[12:15:28.062]: Datanode #5_0 has received a block #3671_3, and TTR is: 12518
+
+[12:15:29.169]: Datanode #5_0 has received a block #2121_3, and TTR is: 13625
+
+[12:15:31.944]: Datanode #5_0 has received a block #2171_3, and TTR is: 16400
+
+[12:15:33.585]: Datanode #5_0 has received a block #3771_3, and TTR is: 18041
+
+[12:15:34.711]: Datanode #5_0 has received a block #2421_3, and TTR is: 19167
+
+[12:15:34.711]: Datanode #5_0 has received a block #3021_3, and TTR is: 19167
+
+[12:15:38.638]: Datanode #5_0 has received a block #3621_3, and TTR is: 23094
+
+[12:15:39.754]: Datanode #5_0 has received a block #2221_3, and TTR is: 24210
+
+[12:15:39.754]: Datanode #5_0 has received a block #2521_3, and TTR is: 24210
+
+[12:15:39.755]: Datanode #5_0 has received a block #3121_3, and TTR is: 24211
+
+[12:15:43.601]: Datanode #5_0 has received a block #3971_3, and TTR is: 28057
+
+[12:15:44.685]: Datanode #5_0 has received a block #2271_3, and TTR is: 29141
+
+[12:15:44.685]: Datanode #5_0 has received a block #2721_3, and TTR is: 29141
+
+[12:15:44.685]: Datanode #5_0 has received a block #3071_3, and TTR is: 29141
+
+[12:15:48.633]: Datanode #5_0 has received a block #3921_3, and TTR is: 33089
+
+[12:15:49.802]: Datanode #5_0 has received a block #2321_3, and TTR is: 34258
+
+[12:15:49.802]: Datanode #5_0 has received a block #2671_3, and TTR is: 34258
+
+[12:15:49.802]: Datanode #5_0 has received a block #2821_3, and TTR is: 34258
+
+[12:15:53.647]: Datanode #5_0 has received a block #3871_3, and TTR is: 38103
+
+[12:15:54.765]: Datanode #5_0 has received a block #2371_3, and TTR is: 39221
+
+[12:15:55.342]: Datanode #5_0 has received a block #2571_3, and TTR is: 39798
+
+[12:15:55.342]: Datanode #5_0 has received a block #2921_3, and TTR is: 39798
+
+[12:15:59.845]: Datanode #5_0 has received a block #1221_3, and TTR is: 44301
+
+[12:16:05.327]: Datanode #5_0 has received a block #1271_3, and TTR is: 49783
+
+[12:16:10.321]: Datanode #5_0 has received a block #1321_3, and TTR is: 54777
+
+[12:16:15.321]: Datanode #5_0 has received a block #1521_3, and TTR is: 59777
+
+[12:16:20.319]: Datanode #5_0 has received a block #1421_3, and TTR is: 64775
+
+[12:16:25.317]: Datanode #5_0 has received a block #1471_3, and TTR is: 69773
+
+[12:16:30.340]: Datanode #5_0 has received a block #1571_3, and TTR is: 74796
+
+[12:16:35.974]: Datanode #5_0 has received a block #1371_3, and TTR is: 80430
+
+[12:16:35.974]: Datanode #5_87 is repeared. TTR is: 80430
+
+[12:16:46.060]: Datanode #9_159 has failed . . .
+
+[12:16:56.083]: Namenode #9 has detected a failure in Datanode #9_159
+
+[12:16:56.083]: Repearing node #9_159: Namenode has scheduled to repair block #3639_3, FailTime: 1453798016083
+
+[12:16:56.084]: Repearing node #9_159: Namenode has scheduled to repair block #3689_3, FailTime: 1453798016083
+
+[12:16:56.084]: Repearing node #9_159: Namenode has scheduled to repair block #3739_3, FailTime: 1453798016083
+
+[12:16:56.084]: Repearing node #9_159: Namenode has scheduled to repair block #3789_3, FailTime: 1453798016083
+
+[12:16:56.085]: Repearing node #9_159: Namenode has scheduled to repair block #3839_3, FailTime: 1453798016083
+
+[12:16:56.085]: Repearing node #9_159: Namenode has scheduled to repair block #3889_3, FailTime: 1453798016083
+
+[12:16:56.085]: Repearing node #9_159: Namenode has scheduled to repair block #3939_3, FailTime: 1453798016083
+
+[12:16:56.085]: Repearing node #9_159: Namenode has scheduled to repair block #3989_3, FailTime: 1453798016083
+
+[12:17:02.085]: Datanode #9_0 has received a block #3639_3, and TTR is: 6002
+
+[12:17:07.702]: Datanode #9_0 has received a block #3689_3, and TTR is: 11619
+
+[12:17:12.777]: Datanode #9_0 has received a block #3739_3, and TTR is: 16694
+
+[12:17:18.323]: Datanode #9_0 has received a block #3789_3, and TTR is: 22240
+
+[12:17:23.322]: Datanode #9_0 has received a block #3839_3, and TTR is: 27239
+
+[12:17:28.849]: Datanode #9_0 has received a block #3889_3, and TTR is: 32766
+
+[12:17:33.884]: Datanode #9_0 has received a block #3939_3, and TTR is: 37801
+
+[12:17:39.428]: Datanode #9_0 has received a block #3989_3, and TTR is: 43345
+
+[12:17:39.428]: Datanode #9_159 is repeared. TTR is: 43345
+
+[12:18:26.119]: Datanode #9_58 has failed . . .
+
+[12:18:36.180]: Namenode #9 has detected a failure in Datanode #9_58
+
+[12:18:36.180]: Repearing node #9_58: Namenode has scheduled to repair block #3614_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3664_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3714_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3764_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3814_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3864_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3914_2, FailTime: 1453798116180
+
+[12:18:36.181]: Repearing node #9_58: Namenode has scheduled to repair block #3964_2, FailTime: 1453798116180
+
+[12:18:36.817]: Datanode #9_1 has received a block #3614_2, and TTR is: 637
+
+[12:18:41.846]: Datanode #9_1 has received a block #3664_2, and TTR is: 5666
+
+[12:18:47.386]: Datanode #9_1 has received a block #3714_2, and TTR is: 11206
+
+[12:18:52.389]: Datanode #9_1 has received a block #3764_2, and TTR is: 16209
+
+[12:18:57.975]: Datanode #9_1 has received a block #3814_2, and TTR is: 21795
+
+[12:19:02.988]: Datanode #9_1 has received a block #3864_2, and TTR is: 26808
+
+[12:19:08.530]: Datanode #9_1 has received a block #3914_2, and TTR is: 32350
+
+[12:19:13.542]: Datanode #9_1 has received a block #3964_2, and TTR is: 37362
+
+[12:19:13.542]: Datanode #9_58 is repeared. TTR is: 37362
+
+[12:20:06.174]: Datanode #6_24 has failed . . .
+
+[12:20:16.581]: Namenode #6 has detected a failure in Datanode #6_24
+
+[12:20:16.581]: Repearing node #6_24: Namenode has scheduled to repair block #2406_0, FailTime: 1453798216581
+
+[12:20:16.581]: Repearing node #6_24: Namenode has scheduled to repair block #2456_0, FailTime: 1453798216581
+
+[12:20:16.582]: Repearing node #6_24: Namenode has scheduled to repair block #2506_0, FailTime: 1453798216581
+
+[12:20:16.582]: Repearing node #6_24: Namenode has scheduled to repair block #2556_0, FailTime: 1453798216581
+
+[12:20:16.582]: Repearing node #6_24: Namenode has scheduled to repair block #2606_0, FailTime: 1453798216581
+
+[12:20:16.582]: Repearing node #6_24: Namenode has scheduled to repair block #2656_0, FailTime: 1453798216581
+
+[12:20:16.583]: Repearing node #6_24: Namenode has scheduled to repair block #2706_0, FailTime: 1453798216581
+
+[12:20:16.583]: Repearing node #6_24: Namenode has scheduled to repair block #2756_0, FailTime: 1453798216581
+
+[12:20:16.584]: Repearing node #6_24: Namenode has scheduled to repair block #3306_0, FailTime: 1453798216581
+
+[12:20:16.584]: Repearing node #6_24: Namenode has scheduled to repair block #3206_0, FailTime: 1453798216581
+
+[12:20:16.585]: Repearing node #6_24: Namenode has scheduled to repair block #3356_0, FailTime: 1453798216581
+
+[12:20:16.585]: Repearing node #6_24: Namenode has scheduled to repair block #3456_0, FailTime: 1453798216581
+
+[12:20:16.585]: Repearing node #6_24: Namenode has scheduled to repair block #3256_0, FailTime: 1453798216581
+
+[12:20:16.585]: Repearing node #6_24: Namenode has scheduled to repair block #3556_0, FailTime: 1453798216581
+
+[12:20:16.586]: Repearing node #6_24: Namenode has scheduled to repair block #3506_0, FailTime: 1453798216581
+
+[12:20:16.586]: Repearing node #6_24: Namenode has scheduled to repair block #3406_0, FailTime: 1453798216581
+
+[12:20:22.947]: Datanode #6_0 has received a block #2406_0, and TTR is: 6366
+
+[12:20:22.947]: Datanode #6_0 has received a block #3306_0, and TTR is: 6366
+
+[12:20:27.928]: Datanode #6_0 has received a block #2456_0, and TTR is: 11347
+
+[12:20:28.483]: Datanode #6_0 has received a block #3206_0, and TTR is: 11902
+
+[12:20:32.911]: Datanode #6_0 has received a block #2506_0, and TTR is: 16330
+
+[12:20:33.470]: Datanode #6_0 has received a block #3356_0, and TTR is: 16889
+
+[12:20:38.466]: Datanode #6_0 has received a block #2556_0, and TTR is: 21885
+
+[12:20:38.466]: Datanode #6_0 has received a block #3456_0, and TTR is: 21885
+
+[12:20:44.028]: Datanode #6_0 has received a block #2606_0, and TTR is: 27447
+
+[12:20:46.231]: Datanode #6_0 has received a block #3256_0, and TTR is: 29650
+
+[12:20:49.050]: Datanode #6_0 has received a block #2656_0, and TTR is: 32469
+
+[12:20:51.241]: Datanode #6_0 has received a block #3556_0, and TTR is: 34660
+
+[12:20:54.577]: Datanode #6_0 has received a block #2706_0, and TTR is: 37996
+
+[12:20:56.212]: Datanode #6_0 has received a block #3506_0, and TTR is: 39631
+
+[12:20:59.520]: Datanode #6_0 has received a block #2756_0, and TTR is: 42939
+
+[12:21:01.231]: Datanode #6_0 has received a block #3406_0, and TTR is: 44650
+
+[12:21:01.231]: Datanode #6_24 is repeared. TTR is: 44650
+
+[12:21:46.213]: Datanode #7_71 has failed . . .
+
+[12:21:56.725]: Namenode #7 has detected a failure in Datanode #7_71
+
+[12:21:56.725]: Repearing node #7_71: Namenode has scheduled to repair block #2817_3, FailTime: 1453798316725
+
+[12:21:56.726]: Repearing node #7_71: Namenode has scheduled to repair block #2867_3, FailTime: 1453798316725
+
+[12:21:56.726]: Repearing node #7_71: Namenode has scheduled to repair block #2917_3, FailTime: 1453798316725
+
+[12:21:56.726]: Repearing node #7_71: Namenode has scheduled to repair block #2967_3, FailTime: 1453798316725
+
+[12:21:56.726]: Repearing node #7_71: Namenode has scheduled to repair block #3017_3, FailTime: 1453798316725
+
+[12:21:56.727]: Repearing node #7_71: Namenode has scheduled to repair block #3067_3, FailTime: 1453798316725
+
+[12:21:56.728]: Repearing node #7_71: Namenode has scheduled to repair block #3117_3, FailTime: 1453798316725
+
+[12:21:56.728]: Repearing node #7_71: Namenode has scheduled to repair block #3167_3, FailTime: 1453798316725
+
+[12:22:02.370]: Datanode #7_0 has received a block #2817_3, and TTR is: 5645
+
+[12:22:07.940]: Datanode #7_0 has received a block #2867_3, and TTR is: 11215
+
+[12:22:12.904]: Datanode #7_0 has received a block #2917_3, and TTR is: 16179
+
+[12:22:18.423]: Datanode #7_0 has received a block #2967_3, and TTR is: 21698
+
+[12:22:23.412]: Datanode #7_0 has received a block #3017_3, and TTR is: 26687
+
+[12:22:28.986]: Datanode #7_0 has received a block #3067_3, and TTR is: 32261
+
+[12:22:34.519]: Datanode #7_0 has received a block #3117_3, and TTR is: 37794
+
+[12:22:39.509]: Datanode #7_0 has received a block #3167_3, and TTR is: 42784
+
+[12:22:39.509]: Datanode #7_71 is repeared. TTR is: 42784
+
+[12:23:26.281]: Datanode #3_59 has failed . . .
+
+[12:23:32.604]: Namenode #3 has detected a failure in Datanode #3_59
+
+[12:23:32.604]: Repearing node #3_59: Namenode has scheduled to repair block #1214_3, FailTime: 1453798412604
+
+[12:23:32.605]: Repearing node #3_59: Namenode has scheduled to repair block #1264_3, FailTime: 1453798412604
+
+[12:23:32.605]: Repearing node #3_59: Namenode has scheduled to repair block #1314_3, FailTime: 1453798412604
+
+[12:23:32.606]: Repearing node #3_59: Namenode has scheduled to repair block #1364_3, FailTime: 1453798412604
+
+[12:23:32.606]: Repearing node #3_59: Namenode has scheduled to repair block #1414_3, FailTime: 1453798412604
+
+[12:23:32.606]: Repearing node #3_59: Namenode has scheduled to repair block #1464_3, FailTime: 1453798412604
+
+[12:23:32.606]: Repearing node #3_59: Namenode has scheduled to repair block #1514_3, FailTime: 1453798412604
+
+[12:23:32.607]: Repearing node #3_59: Namenode has scheduled to repair block #1564_3, FailTime: 1453798412604
+
+[12:23:32.607]: Repearing node #3_59: Namenode has scheduled to repair block #14_3, FailTime: 1453798412604
+
+[12:23:32.607]: Repearing node #3_59: Namenode has scheduled to repair block #64_3, FailTime: 1453798412604
+
+[12:23:32.608]: Repearing node #3_59: Namenode has scheduled to repair block #114_3, FailTime: 1453798412604
+
+[12:23:32.608]: Repearing node #3_59: Namenode has scheduled to repair block #164_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #214_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #264_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #364_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #314_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #2014_3, FailTime: 1453798412604
+
+[12:23:32.609]: Repearing node #3_59: Namenode has scheduled to repair block #2214_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #2264_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #2064_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #1614_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #1664_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #1864_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #1764_3, FailTime: 1453798412604
+
+[12:23:32.610]: Repearing node #3_59: Namenode has scheduled to repair block #1714_3, FailTime: 1453798412604
+
+[12:23:32.611]: Repearing node #3_59: Namenode has scheduled to repair block #1914_3, FailTime: 1453798412604
+
+[12:23:32.611]: Repearing node #3_59: Namenode has scheduled to repair block #1814_3, FailTime: 1453798412604
+
+[12:23:32.611]: Repearing node #3_59: Namenode has scheduled to repair block #1964_3, FailTime: 1453798412604
+
+[12:23:32.614]: Repearing node #3_59: Namenode has scheduled to repair block #2114_3, FailTime: 1453798412604
+
+[12:23:32.614]: Repearing node #3_59: Namenode has scheduled to repair block #2164_3, FailTime: 1453798412604
+
+[12:23:32.615]: Repearing node #3_59: Namenode has scheduled to repair block #2364_3, FailTime: 1453798412604
+
+[12:23:32.616]: Repearing node #3_59: Namenode has scheduled to repair block #2314_3, FailTime: 1453798412604
+
+[12:23:38.055]: Datanode #3_1 has received a block #1214_3, and TTR is: 5451
+
+[12:23:38.612]: Datanode #3_1 has received a block #14_3, and TTR is: 6008
+
+[12:23:40.252]: Datanode #3_1 has received a block #1614_3, and TTR is: 7648
+
+[12:23:44.163]: Datanode #3_1 has received a block #1264_3, and TTR is: 11559
+
+[12:23:45.271]: Datanode #3_1 has received a block #1664_3, and TTR is: 12667
+
+[12:23:46.398]: Datanode #3_1 has received a block #64_3, and TTR is: 13794
+
+[12:23:49.287]: Datanode #3_1 has received a block #1314_3, and TTR is: 16683
+
+[12:23:50.423]: Datanode #3_1 has received a block #1864_3, and TTR is: 17819
+
+[12:23:51.598]: Datanode #3_1 has received a block #114_3, and TTR is: 18994
+
+[12:23:54.424]: Datanode #3_1 has received a block #1364_3, and TTR is: 21820
+
+[12:23:55.546]: Datanode #3_1 has received a block #1764_3, and TTR is: 22942
+
+[12:23:56.665]: Datanode #3_1 has received a block #164_3, and TTR is: 24061
+
+[12:24:00.014]: Datanode #3_1 has received a block #1414_3, and TTR is: 27410
+
+[12:24:00.600]: Datanode #3_1 has received a block #1714_3, and TTR is: 27996
+
+[12:24:01.723]: Datanode #3_1 has received a block #214_3, and TTR is: 29119
+
+[12:24:05.161]: Datanode #3_1 has received a block #1464_3, and TTR is: 32557
+
+[12:24:05.714]: Datanode #3_1 has received a block #1914_3, and TTR is: 33110
+
+[12:24:06.852]: Datanode #3_1 has received a block #264_3, and TTR is: 34248
+
+[12:24:10.255]: Datanode #3_1 has received a block #1514_3, and TTR is: 37651
+
+[12:24:10.816]: Datanode #3_1 has received a block #1814_3, and TTR is: 38212
+
+[12:24:11.959]: Datanode #3_1 has received a block #364_3, and TTR is: 39355
+
+[12:24:15.991]: Datanode #3_1 has received a block #1564_3, and TTR is: 43387
+
+[12:24:15.991]: Datanode #3_1 has received a block #1964_3, and TTR is: 43387
+
+[12:24:17.126]: Datanode #3_1 has received a block #314_3, and TTR is: 44522
+
+[12:24:20.581]: Datanode #3_1 has received a block #2014_3, and TTR is: 47977
+
+[12:24:22.259]: Datanode #3_1 has received a block #2264_3, and TTR is: 49655
+
+[12:24:26.254]: Datanode #3_1 has received a block #2214_3, and TTR is: 53650
+
+[12:24:31.978]: Datanode #3_1 has received a block #2064_3, and TTR is: 59374
+
+[12:24:36.518]: Datanode #3_1 has received a block #2114_3, and TTR is: 63914
+
+[12:24:42.147]: Datanode #3_1 has received a block #2164_3, and TTR is: 69543
+
+[12:24:47.630]: Datanode #3_1 has received a block #2364_3, and TTR is: 75026
+
+[12:24:53.256]: Datanode #3_1 has received a block #2314_3, and TTR is: 80652
+
+[12:24:53.256]: Datanode #3_59 is repeared. TTR is: 80652
+
+[12:25:06.337]: Datanode #5_113 has failed . . .
+
+[12:25:13.573]: Namenode #5 has detected a failure in Datanode #5_113
+
+[12:25:13.573]: Repearing node #5_113: Namenode has scheduled to repair block #2028_1, FailTime: 1453798513573
+
+[12:25:13.574]: Repearing node #5_113: Namenode has scheduled to repair block #2078_1, FailTime: 1453798513573
+
+[12:25:13.574]: Repearing node #5_113: Namenode has scheduled to repair block #2128_1, FailTime: 1453798513573
+
+[12:25:13.574]: Repearing node #5_113: Namenode has scheduled to repair block #2178_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #2228_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #2278_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #2328_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #2378_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #3828_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #3728_1, FailTime: 1453798513573
+
+[12:25:13.575]: Repearing node #5_113: Namenode has scheduled to repair block #3678_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #3628_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #3928_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #3978_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #3778_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #1228_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #1278_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #1328_1, FailTime: 1453798513573
+
+[12:25:13.576]: Repearing node #5_113: Namenode has scheduled to repair block #1378_1, FailTime: 1453798513573
+
+[12:25:13.579]: Repearing node #5_113: Namenode has scheduled to repair block #1528_1, FailTime: 1453798513573
+
+[12:25:13.579]: Repearing node #5_113: Namenode has scheduled to repair block #1478_1, FailTime: 1453798513573
+
+[12:25:13.580]: Repearing node #5_113: Namenode has scheduled to repair block #1578_1, FailTime: 1453798513573
+
+[12:25:13.580]: Repearing node #5_113: Namenode has scheduled to repair block #1428_1, FailTime: 1453798513573
+
+[12:25:13.580]: Repearing node #5_113: Namenode has scheduled to repair block #2478_1, FailTime: 1453798513573
+
+[12:25:13.580]: Repearing node #5_113: Namenode has scheduled to repair block #2778_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2578_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2428_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2528_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2728_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2628_1, FailTime: 1453798513573
+
+[12:25:13.581]: Repearing node #5_113: Namenode has scheduled to repair block #2678_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #2978_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #3178_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #2878_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #3028_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #3078_1, FailTime: 1453798513573
+
+[12:25:13.582]: Repearing node #5_113: Namenode has scheduled to repair block #2828_1, FailTime: 1453798513573
+
+[12:25:13.583]: Repearing node #5_113: Namenode has scheduled to repair block #3128_1, FailTime: 1453798513573
+
+[12:25:13.583]: Repearing node #5_113: Namenode has scheduled to repair block #2928_1, FailTime: 1453798513573
+
+[12:25:13.583]: Repearing node #5_113: Namenode has scheduled to repair block #3878_1, FailTime: 1453798513573
+
+[12:25:13.583]: Repearing node #5_113: Namenode has scheduled to repair block #28_1, FailTime: 1453798513573
+
+[12:25:13.583]: Repearing node #5_113: Namenode has scheduled to repair block #128_1, FailTime: 1453798513573
+
+[12:25:19.476]: Datanode #5_1 has received a block #2028_1, and TTR is: 5903
+
+[12:25:20.033]: Datanode #5_1 has received a block #2978_1, and TTR is: 6460
+
+[12:25:20.033]: Datanode #5_1 has received a block #2478_1, and TTR is: 6460
+
+[12:25:21.732]: Datanode #5_1 has received a block #3828_1, and TTR is: 8159
+
+[12:25:25.225]: Datanode #5_1 has received a block #2078_1, and TTR is: 11652
+
+[12:25:25.225]: Datanode #5_1 has received a block #3178_1, and TTR is: 11652
+
+[12:25:25.225]: Datanode #5_1 has received a block #2778_1, and TTR is: 11652
+
+[12:25:26.408]: Datanode #5_1 has received a block #3728_1, and TTR is: 12835
+
+[12:25:30.247]: Datanode #5_1 has received a block #2128_1, and TTR is: 16674
+
+[12:25:30.247]: Datanode #5_1 has received a block #2878_1, and TTR is: 16674
+
+[12:25:30.826]: Datanode #5_1 has received a block #2578_1, and TTR is: 17253
+
+[12:25:31.954]: Datanode #5_1 has received a block #3678_1, and TTR is: 18381
+
+[12:25:35.949]: Datanode #5_1 has received a block #2428_1, and TTR is: 22376
+
+[12:25:35.949]: Datanode #5_1 has received a block #2178_1, and TTR is: 22376
+
+[12:25:37.079]: Datanode #5_1 has received a block #3628_1, and TTR is: 23506
+
+[12:25:38.140]: Datanode #5_1 has received a block #3028_1, and TTR is: 24567
+
+[12:25:40.974]: Datanode #5_1 has received a block #2228_1, and TTR is: 27401
+
+[12:25:40.974]: Datanode #5_1 has received a block #3078_1, and TTR is: 27401
+
+[12:25:40.975]: Datanode #5_1 has received a block #2528_1, and TTR is: 27402
+
+[12:25:42.136]: Datanode #5_1 has received a block #3928_1, and TTR is: 28563
+
+[12:25:46.642]: Datanode #5_1 has received a block #2278_1, and TTR is: 33069
+
+[12:25:47.217]: Datanode #5_1 has received a block #3978_1, and TTR is: 33644
+
+[12:25:48.342]: Datanode #5_1 has received a block #2828_1, and TTR is: 34769
+
+[12:25:48.342]: Datanode #5_1 has received a block #2728_1, and TTR is: 34769
+
+[12:25:51.692]: Datanode #5_1 has received a block #2328_1, and TTR is: 38119
+
+[12:25:52.247]: Datanode #5_1 has received a block #3778_1, and TTR is: 38674
+
+[12:25:53.927]: Datanode #5_1 has received a block #3128_1, and TTR is: 40354
+
+[12:25:53.927]: Datanode #5_1 has received a block #2628_1, and TTR is: 40354
+
+[12:25:56.763]: Datanode #5_1 has received a block #2378_1, and TTR is: 43190
+
+[12:25:57.349]: Datanode #5_1 has received a block #3878_1, and TTR is: 43776
+
+[12:25:59.056]: Datanode #5_1 has received a block #2678_1, and TTR is: 45483
+
+[12:25:59.056]: Datanode #5_1 has received a block #2928_1, and TTR is: 45483
+
+[12:26:01.899]: Datanode #5_1 has received a block #1228_1, and TTR is: 48326
+
+[12:26:07.568]: Datanode #5_1 has received a block #1278_1, and TTR is: 53995
+
+[12:26:12.651]: Datanode #5_1 has received a block #1328_1, and TTR is: 59078
+
+[12:26:18.301]: Datanode #5_1 has received a block #1378_1, and TTR is: 64728
+
+[12:26:23.419]: Datanode #5_1 has received a block #1528_1, and TTR is: 69846
+
+[12:26:29.097]: Datanode #5_1 has received a block #1478_1, and TTR is: 75524
+
+[12:26:34.188]: Datanode #5_1 has received a block #1578_1, and TTR is: 80615
+
+[12:26:39.809]: Datanode #5_1 has received a block #1428_1, and TTR is: 86236
+
+[12:26:44.988]: Datanode #5_1 has received a block #28_1, and TTR is: 91415
+
+[12:26:46.380]: Datanode #6_155 has failed . . .
+
+[12:26:50.066]: Datanode #5_1 has received a block #128_1, and TTR is: 96493
+
+[12:26:50.067]: Datanode #5_113 is repeared. TTR is: 96493
+
+[12:26:55.135]: Namenode #6 has detected a failure in Datanode #6_155
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2438_3, FailTime: 1453798615135
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2488_3, FailTime: 1453798615135
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2538_3, FailTime: 1453798615135
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2588_3, FailTime: 1453798615135
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2638_3, FailTime: 1453798615135
+
+[12:26:55.136]: Repearing node #6_155: Namenode has scheduled to repair block #2688_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #2738_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #2788_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #3288_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #3588_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #3238_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #3438_3, FailTime: 1453798615135
+
+[12:26:55.137]: Repearing node #6_155: Namenode has scheduled to repair block #3488_3, FailTime: 1453798615135
+
+[12:26:55.138]: Repearing node #6_155: Namenode has scheduled to repair block #3388_3, FailTime: 1453798615135
+
+[12:26:55.138]: Repearing node #6_155: Namenode has scheduled to repair block #3538_3, FailTime: 1453798615135
+
+[12:26:55.138]: Repearing node #6_155: Namenode has scheduled to repair block #3338_3, FailTime: 1453798615135
+
+[12:27:00.933]: Datanode #6_1 has received a block #2438_3, and TTR is: 5798
+
+[12:27:03.280]: Datanode #6_1 has received a block #3288_3, and TTR is: 8145
+
+[12:27:06.107]: Datanode #6_1 has received a block #2488_3, and TTR is: 10972
+
+[12:27:08.348]: Datanode #6_1 has received a block #3588_3, and TTR is: 13213
+
+[12:27:11.854]: Datanode #6_1 has received a block #2538_3, and TTR is: 16719
+
+[12:27:13.542]: Datanode #6_1 has received a block #3238_3, and TTR is: 18407
+
+[12:27:16.984]: Datanode #6_1 has received a block #2588_3, and TTR is: 21849
+
+[12:27:18.697]: Datanode #6_1 has received a block #3438_3, and TTR is: 23562
+
+[12:27:22.675]: Datanode #6_1 has received a block #2638_3, and TTR is: 27540
+
+[12:27:23.795]: Datanode #6_1 has received a block #3488_3, and TTR is: 28660
+
+[12:27:27.765]: Datanode #6_1 has received a block #2688_3, and TTR is: 32630
+
+[12:27:28.898]: Datanode #6_1 has received a block #3388_3, and TTR is: 33763
+
+[12:27:32.440]: Datanode #6_1 has received a block #2738_3, and TTR is: 37305
+
+[12:27:34.154]: Datanode #6_1 has received a block #3538_3, and TTR is: 39019
+
+[12:27:38.726]: Datanode #6_1 has received a block #2788_3, and TTR is: 43591
+
+[12:27:38.726]: Datanode #6_1 has received a block #3338_3, and TTR is: 43591
+
+[12:27:38.726]: Datanode #6_155 is repeared. TTR is: 43591
+
+[12:28:26.449]: Datanode #0_76 has failed . . .
+
+[12:28:36.622]: Namenode #0 has detected a failure in Datanode #0_76
+
+[12:28:36.622]: Repearing node #0_76: Namenode has scheduled to repair block #19_0, FailTime: 1453798716622
+
+[12:28:36.622]: Repearing node #0_76: Namenode has scheduled to repair block #69_0, FailTime: 1453798716622
+
+[12:28:36.622]: Repearing node #0_76: Namenode has scheduled to repair block #119_0, FailTime: 1453798716622
+
+[12:28:36.622]: Repearing node #0_76: Namenode has scheduled to repair block #169_0, FailTime: 1453798716622
+
+[12:28:36.622]: Repearing node #0_76: Namenode has scheduled to repair block #219_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #269_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #319_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #369_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #419_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #569_0, FailTime: 1453798716622
+
+[12:28:36.623]: Repearing node #0_76: Namenode has scheduled to repair block #619_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #669_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #719_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #769_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #469_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #519_0, FailTime: 1453798716622
+
+[12:28:36.624]: Repearing node #0_76: Namenode has scheduled to repair block #819_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #919_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #869_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #1019_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #969_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #1069_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #1119_0, FailTime: 1453798716622
+
+[12:28:36.625]: Repearing node #0_76: Namenode has scheduled to repair block #1169_0, FailTime: 1453798716622
+
+[12:28:42.346]: Datanode #0_4 has received a block #169_0, and TTR is: 5724
+
+[12:28:43.500]: Datanode #0_4 has received a block #119_0, and TTR is: 6878
+
+[12:28:43.500]: Datanode #0_4 has received a block #19_0, and TTR is: 6878
+
+[12:28:47.504]: Datanode #0_4 has received a block #269_0, and TTR is: 10882
+
+[12:28:48.644]: Datanode #0_4 has received a block #219_0, and TTR is: 12022
+
+[12:28:48.644]: Datanode #0_4 has received a block #69_0, and TTR is: 12022
+
+[12:28:52.673]: Datanode #0_4 has received a block #319_0, and TTR is: 16051
+
+[12:28:53.292]: Datanode #0_4 has received a block #819_0, and TTR is: 16670
+
+[12:28:53.864]: Datanode #0_4 has received a block #419_0, and TTR is: 17242
+
+[12:28:57.953]: Datanode #0_4 has received a block #369_0, and TTR is: 21331
+
+[12:28:58.518]: Datanode #0_4 has received a block #569_0, and TTR is: 21896
+
+[12:28:59.090]: Datanode #0_4 has received a block #919_0, and TTR is: 22468
+
+[12:29:06.603]: Datanode #0_4 has received a block #619_0, and TTR is: 29981
+
+[12:29:06.603]: Datanode #0_4 has received a block #869_0, and TTR is: 29981
+
+[12:29:11.770]: Datanode #0_4 has received a block #669_0, and TTR is: 35148
+
+[12:29:11.770]: Datanode #0_4 has received a block #1019_0, and TTR is: 35148
+
+[12:29:16.984]: Datanode #0_4 has received a block #719_0, and TTR is: 40362
+
+[12:29:16.984]: Datanode #0_4 has received a block #969_0, and TTR is: 40362
+
+[12:29:22.194]: Datanode #0_4 has received a block #769_0, and TTR is: 45572
+
+[12:29:22.194]: Datanode #0_4 has received a block #1069_0, and TTR is: 45572
+
+[12:29:26.885]: Datanode #0_4 has received a block #469_0, and TTR is: 50263
+
+[12:29:26.885]: Datanode #0_4 has received a block #1119_0, and TTR is: 50263
+
+[12:29:32.118]: Datanode #0_4 has received a block #519_0, and TTR is: 55496
+
+[12:29:32.118]: Datanode #0_4 has received a block #1169_0, and TTR is: 55496
+
+[12:29:32.119]: Datanode #0_76 is repeared. TTR is: 55496
+
+[12:30:06.506]: Datanode #4_163 has failed . . .
+
+[12:30:13.167]: Namenode #4 has detected a failure in Datanode #4_163
+
+[12:30:13.167]: Repearing node #4_163: Namenode has scheduled to repair block #1640_3, FailTime: 1453798813167
+
+[12:30:13.167]: Repearing node #4_163: Namenode has scheduled to repair block #1690_3, FailTime: 1453798813167
+
+[12:30:13.167]: Repearing node #4_163: Namenode has scheduled to repair block #1740_3, FailTime: 1453798813167
+
+[12:30:13.168]: Repearing node #4_163: Namenode has scheduled to repair block #1790_3, FailTime: 1453798813167
+
+[12:30:13.168]: Repearing node #4_163: Namenode has scheduled to repair block #1840_3, FailTime: 1453798813167
+
+[12:30:13.168]: Repearing node #4_163: Namenode has scheduled to repair block #1890_3, FailTime: 1453798813167
+
+[12:30:13.169]: Repearing node #4_163: Namenode has scheduled to repair block #1940_3, FailTime: 1453798813167
+
+[12:30:13.169]: Repearing node #4_163: Namenode has scheduled to repair block #1990_3, FailTime: 1453798813167
+
+[12:30:19.754]: Datanode #4_123 has received a block #1640_3, and TTR is: 6587
+
+[12:30:25.019]: Datanode #4_123 has received a block #1690_3, and TTR is: 11852
+
+[12:30:30.129]: Datanode #4_123 has received a block #1740_3, and TTR is: 16962
+
+[12:30:35.891]: Datanode #4_123 has received a block #1790_3, and TTR is: 22724
+
+[12:30:41.136]: Datanode #4_123 has received a block #1840_3, and TTR is: 27969
+
+[12:30:46.229]: Datanode #4_123 has received a block #1890_3, and TTR is: 33062
+
+[12:30:51.960]: Datanode #4_123 has received a block #1940_3, and TTR is: 38793
+
+[12:30:57.172]: Datanode #4_123 has received a block #1990_3, and TTR is: 44005
+
+[12:30:57.172]: Datanode #4_163 is repeared. TTR is: 44005
+
+[12:31:46.579]: Datanode #3_132 has failed . . .
+
+[12:31:55.903]: Namenode #3 has detected a failure in Datanode #3_132
+
+[12:31:55.904]: Repearing node #3_132: Namenode has scheduled to repair block #1233_0, FailTime: 1453798915903
+
+[12:31:55.904]: Repearing node #3_132: Namenode has scheduled to repair block #1283_0, FailTime: 1453798915903
+
+[12:31:55.905]: Repearing node #3_132: Namenode has scheduled to repair block #1333_0, FailTime: 1453798915903
+
+[12:31:55.905]: Repearing node #3_132: Namenode has scheduled to repair block #1383_0, FailTime: 1453798915903
+
+[12:31:55.905]: Repearing node #3_132: Namenode has scheduled to repair block #1433_0, FailTime: 1453798915903
+
+[12:31:55.905]: Repearing node #3_132: Namenode has scheduled to repair block #1483_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #1533_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #1583_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #33_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #83_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #133_0, FailTime: 1453798915903
+
+[12:31:55.906]: Repearing node #3_132: Namenode has scheduled to repair block #183_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #233_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #283_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #333_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #383_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #2033_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #2283_0, FailTime: 1453798915903
+
+[12:31:55.908]: Repearing node #3_132: Namenode has scheduled to repair block #2083_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #2133_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #2183_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #2233_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #1633_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #1683_0, FailTime: 1453798915903
+
+[12:31:55.909]: Repearing node #3_132: Namenode has scheduled to repair block #1883_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #1933_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #1833_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #1783_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #1733_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #1983_0, FailTime: 1453798915903
+
+[12:31:55.910]: Repearing node #3_132: Namenode has scheduled to repair block #2333_0, FailTime: 1453798915903
+
+[12:31:55.911]: Repearing node #3_132: Namenode has scheduled to repair block #2383_0, FailTime: 1453798915903
+
+[12:32:02.286]: Datanode #3_2 has received a block #1233_0, and TTR is: 6383
+
+[12:32:02.286]: Datanode #3_2 has received a block #33_0, and TTR is: 6383
+
+[12:32:04.584]: Datanode #3_2 has received a block #1633_0, and TTR is: 8681
+
+[12:32:06.903]: Datanode #3_2 has received a block #83_0, and TTR is: 11000
+
+[12:32:06.903]: Datanode #3_2 has received a block #1283_0, and TTR is: 11000
+
+[12:32:09.783]: Datanode #3_2 has received a block #1683_0, and TTR is: 13880
+
+[12:32:12.709]: Datanode #3_2 has received a block #1333_0, and TTR is: 16806
+
+[12:32:13.270]: Datanode #3_2 has received a block #133_0, and TTR is: 17367
+
+[12:32:14.419]: Datanode #3_2 has received a block #1883_0, and TTR is: 18516
+
+[12:32:18.479]: Datanode #3_2 has received a block #1383_0, and TTR is: 22576
+
+[12:32:18.479]: Datanode #3_2 has received a block #183_0, and TTR is: 22576
+
+[12:32:19.668]: Datanode #3_2 has received a block #1933_0, and TTR is: 23765
+
+[12:32:23.711]: Datanode #3_2 has received a block #233_0, and TTR is: 27808
+
+[12:32:23.711]: Datanode #3_2 has received a block #1433_0, and TTR is: 27808
+
+[12:32:24.849]: Datanode #3_2 has received a block #1833_0, and TTR is: 28946
+
+[12:32:28.868]: Datanode #3_2 has received a block #1483_0, and TTR is: 32965
+
+[12:32:29.439]: Datanode #3_2 has received a block #283_0, and TTR is: 33536
+
+[12:32:30.025]: Datanode #3_2 has received a block #1783_0, and TTR is: 34122
+
+[12:32:34.114]: Datanode #3_2 has received a block #1533_0, and TTR is: 38211
+
+[12:32:34.682]: Datanode #3_2 has received a block #333_0, and TTR is: 38779
+
+[12:32:35.253]: Datanode #3_2 has received a block #1733_0, and TTR is: 39350
+
+[12:32:39.356]: Datanode #3_2 has received a block #383_0, and TTR is: 43453
+
+[12:32:39.919]: Datanode #3_2 has received a block #1583_0, and TTR is: 44016
+
+[12:32:40.487]: Datanode #3_2 has received a block #1983_0, and TTR is: 44584
+
+[12:32:45.020]: Datanode #3_2 has received a block #2033_0, and TTR is: 49117
+
+[12:32:50.182]: Datanode #3_2 has received a block #2283_0, and TTR is: 54279
+
+[12:32:55.692]: Datanode #3_2 has received a block #2083_0, and TTR is: 59789
+
+[12:33:00.995]: Datanode #3_2 has received a block #2133_0, and TTR is: 65092
+
+[12:33:06.929]: Datanode #3_2 has received a block #2183_0, and TTR is: 71026
+
+[12:33:11.606]: Datanode #3_2 has received a block #2233_0, and TTR is: 75703
+
+[12:33:17.371]: Datanode #3_2 has received a block #2333_0, and TTR is: 81468
+
+[12:33:23.162]: Datanode #3_2 has received a block #2383_0, and TTR is: 87259
+
+[12:33:23.162]: Datanode #3_132 is repeared. TTR is: 87259
+
+[12:33:26.633]: Datanode #1_158 has failed . . .
+
+[12:33:33.128]: Namenode #1 has detected a failure in Datanode #1_158
+
+[12:33:33.129]: Repearing node #1_158: Namenode has scheduled to repair block #439_2, FailTime: 1453799013128
+
+[12:33:33.129]: Repearing node #1_158: Namenode has scheduled to repair block #489_2, FailTime: 1453799013128
+
+[12:33:33.129]: Repearing node #1_158: Namenode has scheduled to repair block #539_2, FailTime: 1453799013128
+
+[12:33:33.129]: Repearing node #1_158: Namenode has scheduled to repair block #589_2, FailTime: 1453799013128
+
+[12:33:33.130]: Repearing node #1_158: Namenode has scheduled to repair block #639_2, FailTime: 1453799013128
+
+[12:33:33.130]: Repearing node #1_158: Namenode has scheduled to repair block #689_2, FailTime: 1453799013128
+
+[12:33:33.130]: Repearing node #1_158: Namenode has scheduled to repair block #739_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #789_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #39_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #89_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #239_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #289_2, FailTime: 1453799013128
+
+[12:33:33.131]: Repearing node #1_158: Namenode has scheduled to repair block #1039_2, FailTime: 1453799013128
+
+[12:33:33.132]: Repearing node #1_158: Namenode has scheduled to repair block #189_2, FailTime: 1453799013128
+
+[12:33:33.132]: Repearing node #1_158: Namenode has scheduled to repair block #139_2, FailTime: 1453799013128
+
+[12:33:33.133]: Repearing node #1_158: Namenode has scheduled to repair block #339_2, FailTime: 1453799013128
+
+[12:33:39.030]: Datanode #1_76 has received a block #439_2, and TTR is: 5902
+
+[12:33:45.042]: Datanode #1_76 has received a block #489_2, and TTR is: 11914
+
+[12:33:50.206]: Datanode #1_76 has received a block #539_2, and TTR is: 17078
+
+[12:33:56.113]: Datanode #1_76 has received a block #589_2, and TTR is: 22985
+
+[12:34:01.468]: Datanode #1_76 has received a block #639_2, and TTR is: 28340
+
+[12:34:06.337]: Datanode #1_76 has received a block #689_2, and TTR is: 33209
+
+[12:34:11.131]: Datanode #1_76 has received a block #739_2, and TTR is: 38003
+
+[12:34:17.629]: Datanode #1_76 has received a block #789_2, and TTR is: 44501
+
+[12:34:23.210]: Datanode #1_76 has received a block #39_2, and TTR is: 50082
+
+[12:34:28.554]: Datanode #1_76 has received a block #89_2, and TTR is: 55426
+
+[12:34:33.502]: Datanode #1_76 has received a block #239_2, and TTR is: 60374
+
+[12:34:38.799]: Datanode #1_76 has received a block #289_2, and TTR is: 65671
+
+[12:34:44.302]: Datanode #1_76 has received a block #1039_2, and TTR is: 71174
+
+[12:34:50.213]: Datanode #1_76 has received a block #189_2, and TTR is: 77085
+
+[12:34:55.630]: Datanode #1_76 has received a block #139_2, and TTR is: 82502
+
+[12:35:01.006]: Datanode #1_76 has received a block #339_2, and TTR is: 87878
+
+[12:35:01.007]: Datanode #1_158 is repeared. TTR is: 87878
+
+[12:35:06.717]: Datanode #0_56 has failed . . .
+
+[12:35:16.371]: Namenode #0 has detected a failure in Datanode #0_56
+
+[12:35:16.372]: Repearing node #0_56: Namenode has scheduled to repair block #14_0, FailTime: 1453799116371
+
+[12:35:16.372]: Repearing node #0_56: Namenode has scheduled to repair block #64_0, FailTime: 1453799116371
+
+[12:35:16.372]: Repearing node #0_56: Namenode has scheduled to repair block #114_0, FailTime: 1453799116371
+
+[12:35:16.373]: Repearing node #0_56: Namenode has scheduled to repair block #164_0, FailTime: 1453799116371
+
+[12:35:16.373]: Repearing node #0_56: Namenode has scheduled to repair block #214_0, FailTime: 1453799116371
+
+[12:35:16.373]: Repearing node #0_56: Namenode has scheduled to repair block #264_0, FailTime: 1453799116371
+
+[12:35:16.374]: Repearing node #0_56: Namenode has scheduled to repair block #314_0, FailTime: 1453799116371
+
+[12:35:16.374]: Repearing node #0_56: Namenode has scheduled to repair block #364_0, FailTime: 1453799116371
+
+[12:35:16.374]: Repearing node #0_56: Namenode has scheduled to repair block #414_0, FailTime: 1453799116371
+
+[12:35:16.375]: Repearing node #0_56: Namenode has scheduled to repair block #464_0, FailTime: 1453799116371
+
+[12:35:16.375]: Repearing node #0_56: Namenode has scheduled to repair block #564_0, FailTime: 1453799116371
+
+[12:35:16.375]: Repearing node #0_56: Namenode has scheduled to repair block #514_0, FailTime: 1453799116371
+
+[12:35:16.376]: Repearing node #0_56: Namenode has scheduled to repair block #614_0, FailTime: 1453799116371
+
+[12:35:16.376]: Repearing node #0_56: Namenode has scheduled to repair block #664_0, FailTime: 1453799116371
+
+[12:35:16.376]: Repearing node #0_56: Namenode has scheduled to repair block #714_0, FailTime: 1453799116371
+
+[12:35:16.376]: Repearing node #0_56: Namenode has scheduled to repair block #764_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #814_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #914_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #864_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #1014_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #964_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #1064_0, FailTime: 1453799116371
+
+[12:35:16.378]: Repearing node #0_56: Namenode has scheduled to repair block #1114_0, FailTime: 1453799116371
+
+[12:35:16.379]: Repearing node #0_56: Namenode has scheduled to repair block #1164_0, FailTime: 1453799116371
+
+[12:35:16.379]: Repearing node #0_56: Namenode has scheduled to repair block #2264_0, FailTime: 1453799116371
+
+[12:35:16.379]: Repearing node #0_56: Namenode has scheduled to repair block #2314_0, FailTime: 1453799116371
+
+[12:35:23.423]: Datanode #0_28 has received a block #264_0, and TTR is: 7052
+
+[12:35:23.423]: Datanode #0_28 has received a block #14_0, and TTR is: 7052
+
+[12:35:24.017]: Datanode #0_28 has received a block #114_0, and TTR is: 7646
+
+[12:35:28.056]: Datanode #0_28 has received a block #2264_0, and TTR is: 11685
+
+[12:35:28.640]: Datanode #0_28 has received a block #64_0, and TTR is: 12269
+
+[12:35:29.238]: Datanode #0_28 has received a block #214_0, and TTR is: 12867
+
+[12:35:33.423]: Datanode #0_28 has received a block #2314_0, and TTR is: 17052
+
+[12:35:34.021]: Datanode #0_28 has received a block #164_0, and TTR is: 17650
+
+[12:35:34.021]: Datanode #0_28 has received a block #814_0, and TTR is: 17650
+
+[12:35:39.331]: Datanode #0_28 has received a block #314_0, and TTR is: 22960
+
+[12:35:39.331]: Datanode #0_28 has received a block #914_0, and TTR is: 22960
+
+[12:35:44.801]: Datanode #0_28 has received a block #364_0, and TTR is: 28430
+
+[12:35:44.801]: Datanode #0_28 has received a block #864_0, and TTR is: 28430
+
+[12:35:50.753]: Datanode #0_28 has received a block #414_0, and TTR is: 34382
+
+[12:35:52.535]: Datanode #0_28 has received a block #1014_0, and TTR is: 36164
+
+[12:35:56.118]: Datanode #0_28 has received a block #464_0, and TTR is: 39747
+
+[12:35:57.846]: Datanode #0_28 has received a block #964_0, and TTR is: 41475
+
+[12:36:01.357]: Datanode #0_28 has received a block #564_0, and TTR is: 44986
+
+[12:36:02.584]: Datanode #0_28 has received a block #1064_0, and TTR is: 46213
+
+[12:36:07.302]: Datanode #0_28 has received a block #514_0, and TTR is: 50931
+
+[12:36:07.902]: Datanode #0_28 has received a block #1114_0, and TTR is: 51531
+
+[12:36:12.639]: Datanode #0_28 has received a block #614_0, and TTR is: 56268
+
+[12:36:13.230]: Datanode #0_28 has received a block #1164_0, and TTR is: 56859
+
+[12:36:17.891]: Datanode #0_28 has received a block #664_0, and TTR is: 61520
+
+[12:36:22.672]: Datanode #0_28 has received a block #714_0, and TTR is: 66301
+
+[12:36:28.565]: Datanode #0_28 has received a block #764_0, and TTR is: 72194
+
+[12:36:28.565]: Datanode #0_56 is repeared. TTR is: 72194
+
+[12:36:46.846]: Datanode #6_149 has failed . . .
+
+[12:36:54.672]: Namenode #6 has detected a failure in Datanode #6_149
+
+[12:36:54.672]: Repearing node #6_149: Namenode has scheduled to repair block #2437_1, FailTime: 1453799214672
+
+[12:36:54.672]: Repearing node #6_149: Namenode has scheduled to repair block #2487_1, FailTime: 1453799214672
+
+[12:36:54.672]: Repearing node #6_149: Namenode has scheduled to repair block #2537_1, FailTime: 1453799214672
+
+[12:36:54.673]: Repearing node #6_149: Namenode has scheduled to repair block #2587_1, FailTime: 1453799214672
+
+[12:36:54.674]: Repearing node #6_149: Namenode has scheduled to repair block #2637_1, FailTime: 1453799214672
+
+[12:36:54.674]: Repearing node #6_149: Namenode has scheduled to repair block #2687_1, FailTime: 1453799214672
+
+[12:36:54.674]: Repearing node #6_149: Namenode has scheduled to repair block #2737_1, FailTime: 1453799214672
+
+[12:36:54.675]: Repearing node #6_149: Namenode has scheduled to repair block #2787_1, FailTime: 1453799214672
+
+[12:36:54.675]: Repearing node #6_149: Namenode has scheduled to repair block #3287_1, FailTime: 1453799214672
+
+[12:36:54.675]: Repearing node #6_149: Namenode has scheduled to repair block #3587_1, FailTime: 1453799214672
+
+[12:36:54.676]: Repearing node #6_149: Namenode has scheduled to repair block #3237_1, FailTime: 1453799214672
+
+[12:36:54.676]: Repearing node #6_149: Namenode has scheduled to repair block #3437_1, FailTime: 1453799214672
+
+[12:36:54.676]: Repearing node #6_149: Namenode has scheduled to repair block #3487_1, FailTime: 1453799214672
+
+[12:36:54.677]: Repearing node #6_149: Namenode has scheduled to repair block #3387_1, FailTime: 1453799214672
+
+[12:36:54.677]: Repearing node #6_149: Namenode has scheduled to repair block #3537_1, FailTime: 1453799214672
+
+[12:36:54.677]: Repearing node #6_149: Namenode has scheduled to repair block #3337_1, FailTime: 1453799214672
+
+[12:37:01.214]: Datanode #6_88 has received a block #2437_1, and TTR is: 6542
+
+[12:37:02.390]: Datanode #6_88 has received a block #3287_1, and TTR is: 7718
+
+[12:37:06.753]: Datanode #6_88 has received a block #2487_1, and TTR is: 12081
+
+[12:37:07.408]: Datanode #6_88 has received a block #3587_1, and TTR is: 12736
+
+[12:37:12.778]: Datanode #6_88 has received a block #2537_1, and TTR is: 18106
+
+[12:37:12.778]: Datanode #6_88 has received a block #3237_1, and TTR is: 18106
+
+[12:37:17.629]: Datanode #6_88 has received a block #3437_1, and TTR is: 22957
+
+[12:37:18.229]: Datanode #6_88 has received a block #2587_1, and TTR is: 23557
+
+[12:37:23.073]: Datanode #6_88 has received a block #3487_1, and TTR is: 28401
+
+[12:37:23.749]: Datanode #6_88 has received a block #2637_1, and TTR is: 29077
+
+[12:37:29.214]: Datanode #6_88 has received a block #2687_1, and TTR is: 34542
+
+[12:37:31.049]: Datanode #6_88 has received a block #3387_1, and TTR is: 36377
+
+[12:37:34.916]: Datanode #6_88 has received a block #2737_1, and TTR is: 40244
+
+[12:37:36.094]: Datanode #6_88 has received a block #3537_1, and TTR is: 41422
+
+[12:37:40.393]: Datanode #6_88 has received a block #2787_1, and TTR is: 45721
+
+[12:37:40.987]: Datanode #6_88 has received a block #3337_1, and TTR is: 46315
+
+[12:37:40.987]: Datanode #6_149 is repeared. TTR is: 46315
+
+[12:38:26.938]: Datanode #8_194 has failed . . .
+
+[12:38:33.665]: Namenode #8 has detected a failure in Datanode #8_194
+
+[12:38:33.665]: Repearing node #8_194: Namenode has scheduled to repair block #3248_2, FailTime: 1453799313665
+
+[12:38:33.665]: Repearing node #8_194: Namenode has scheduled to repair block #3298_2, FailTime: 1453799313665
+
+[12:38:33.665]: Repearing node #8_194: Namenode has scheduled to repair block #3348_2, FailTime: 1453799313665
+
+[12:38:33.665]: Repearing node #8_194: Namenode has scheduled to repair block #3398_2, FailTime: 1453799313665
+
+[12:38:33.665]: Repearing node #8_194: Namenode has scheduled to repair block #3448_2, FailTime: 1453799313665
+
+[12:38:33.666]: Repearing node #8_194: Namenode has scheduled to repair block #3498_2, FailTime: 1453799313665
+
+[12:38:33.666]: Repearing node #8_194: Namenode has scheduled to repair block #3548_2, FailTime: 1453799313665
+
+[12:38:33.666]: Repearing node #8_194: Namenode has scheduled to repair block #3598_2, FailTime: 1453799313665
+
+[12:38:34.767]: Datanode #8_60 has received a block #3248_2, and TTR is: 1102
+
+[12:38:40.636]: Datanode #8_60 has received a block #3298_2, and TTR is: 6971
+
+[12:38:46.020]: Datanode #8_60 has received a block #3348_2, and TTR is: 12355
+
+[12:38:51.942]: Datanode #8_60 has received a block #3398_2, and TTR is: 18277
+
+[12:38:57.286]: Datanode #8_60 has received a block #3448_2, and TTR is: 23621
+
+[12:39:02.787]: Datanode #8_60 has received a block #3498_2, and TTR is: 29122
+
+[12:39:08.254]: Datanode #8_60 has received a block #3548_2, and TTR is: 34589
+
+[12:39:13.711]: Datanode #8_60 has received a block #3598_2, and TTR is: 40046
+
+[12:39:13.712]: Datanode #8_194 is repeared. TTR is: 40046
+
+[12:40:07.032]: Datanode #1_77 has failed . . .
+
+[12:40:15.317]: Namenode #1 has detected a failure in Datanode #1_77
+
+[12:40:15.317]: Repearing node #1_77: Namenode has scheduled to repair block #419_1, FailTime: 1453799415317
+
+[12:40:15.317]: Repearing node #1_77: Namenode has scheduled to repair block #469_1, FailTime: 1453799415317
+
+[12:40:15.317]: Repearing node #1_77: Namenode has scheduled to repair block #519_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #569_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #619_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #669_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #719_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #769_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #19_1, FailTime: 1453799415317
+
+[12:40:15.318]: Repearing node #1_77: Namenode has scheduled to repair block #69_1, FailTime: 1453799415317
+
+[12:40:15.319]: Repearing node #1_77: Namenode has scheduled to repair block #169_1, FailTime: 1453799415317
+
+[12:40:15.319]: Repearing node #1_77: Namenode has scheduled to repair block #119_1, FailTime: 1453799415317
+
+[12:40:19.945]: Datanode #1_100 has received a block #419_1, and TTR is: 4628
+
+[12:40:25.306]: Datanode #1_100 has received a block #469_1, and TTR is: 9989
+
+[12:40:30.876]: Datanode #1_100 has received a block #519_1, and TTR is: 15559
+
+[12:40:36.987]: Datanode #1_100 has received a block #569_1, and TTR is: 21670
+
+[12:40:42.551]: Datanode #1_100 has received a block #619_1, and TTR is: 27234
+
+[12:40:47.675]: Datanode #1_100 has received a block #669_1, and TTR is: 32358
+
+[12:40:53.694]: Datanode #1_100 has received a block #719_1, and TTR is: 38377
+
+[12:40:59.028]: Datanode #1_100 has received a block #769_1, and TTR is: 43711
+
+[12:41:04.596]: Datanode #1_100 has received a block #19_1, and TTR is: 49279
+
+[12:41:09.974]: Datanode #1_100 has received a block #69_1, and TTR is: 54657
+
+[12:41:15.305]: Datanode #1_100 has received a block #169_1, and TTR is: 59988
+
+[12:41:21.222]: Datanode #1_100 has received a block #119_1, and TTR is: 65905
+
+[12:41:21.223]: Datanode #1_77 is repeared. TTR is: 65905
+
+[12:41:47.164]: Datanode #6_159 has failed . . .
+
+[12:41:52.442]: Namenode #6 has detected a failure in Datanode #6_159
+
+[12:41:52.442]: Repearing node #6_159: Namenode has scheduled to repair block #2439_3, FailTime: 1453799512442
+
+[12:41:52.442]: Repearing node #6_159: Namenode has scheduled to repair block #2489_3, FailTime: 1453799512442
+
+[12:41:52.442]: Repearing node #6_159: Namenode has scheduled to repair block #2539_3, FailTime: 1453799512442
+
+[12:41:52.443]: Repearing node #6_159: Namenode has scheduled to repair block #2589_3, FailTime: 1453799512442
+
+[12:41:52.444]: Repearing node #6_159: Namenode has scheduled to repair block #2639_3, FailTime: 1453799512442
+
+[12:41:52.444]: Repearing node #6_159: Namenode has scheduled to repair block #2689_3, FailTime: 1453799512442
+
+[12:41:52.444]: Repearing node #6_159: Namenode has scheduled to repair block #2739_3, FailTime: 1453799512442
+
+[12:41:52.444]: Repearing node #6_159: Namenode has scheduled to repair block #2789_3, FailTime: 1453799512442
+
+[12:41:52.445]: Repearing node #6_159: Namenode has scheduled to repair block #3289_3, FailTime: 1453799512442
+
+[12:41:52.445]: Repearing node #6_159: Namenode has scheduled to repair block #3589_3, FailTime: 1453799512442
+
+[12:41:52.445]: Repearing node #6_159: Namenode has scheduled to repair block #3239_3, FailTime: 1453799512442
+
+[12:41:52.446]: Repearing node #6_159: Namenode has scheduled to repair block #3439_3, FailTime: 1453799512442
+
+[12:41:52.446]: Repearing node #6_159: Namenode has scheduled to repair block #3489_3, FailTime: 1453799512442
+
+[12:41:52.446]: Repearing node #6_159: Namenode has scheduled to repair block #3389_3, FailTime: 1453799512442
+
+[12:41:52.447]: Repearing node #6_159: Namenode has scheduled to repair block #3539_3, FailTime: 1453799512442
+
+[12:41:52.447]: Repearing node #6_159: Namenode has scheduled to repair block #3339_3, FailTime: 1453799512442
+
+[12:41:59.941]: Datanode #6_89 has received a block #2439_3, and TTR is: 7499
+
+[12:42:00.521]: Datanode #6_89 has received a block #3289_3, and TTR is: 8079
+
+[12:42:05.398]: Datanode #6_89 has received a block #2489_3, and TTR is: 12956
+
+[12:42:06.001]: Datanode #6_89 has received a block #3589_3, and TTR is: 13559
+
+[12:42:10.822]: Datanode #6_89 has received a block #2539_3, and TTR is: 18380
+
+[12:42:10.822]: Datanode #6_89 has received a block #3239_3, and TTR is: 18380
+
+[12:42:16.256]: Datanode #6_89 has received a block #2589_3, and TTR is: 23814
+
+[12:42:16.256]: Datanode #6_89 has received a block #3439_3, and TTR is: 23814
+
+[12:42:21.537]: Datanode #6_89 has received a block #3489_3, and TTR is: 29095
+
+[12:42:22.117]: Datanode #6_89 has received a block #2639_3, and TTR is: 29675
+
+[12:42:26.317]: Datanode #6_89 has received a block #3389_3, and TTR is: 33875
+
+[12:42:27.499]: Datanode #6_89 has received a block #2689_3, and TTR is: 35057
+
+[12:42:31.728]: Datanode #6_89 has received a block #3539_3, and TTR is: 39286
+
+[12:42:32.321]: Datanode #6_89 has received a block #2739_3, and TTR is: 39879
+
+[12:42:38.277]: Datanode #6_89 has received a block #2789_3, and TTR is: 45835
+
+[12:42:39.596]: Datanode #6_89 has received a block #3339_3, and TTR is: 47154
+
+[12:42:39.596]: Datanode #6_159 is repeared. TTR is: 47154
+
+[12:43:27.269]: Datanode #1_122 has failed . . .
+
+[12:43:33.394]: Namenode #1 has detected a failure in Datanode #1_122
+
+[12:43:33.394]: Repearing node #1_122: Namenode has scheduled to repair block #430_2, FailTime: 1453799613394
+
+[12:43:33.394]: Repearing node #1_122: Namenode has scheduled to repair block #480_2, FailTime: 1453799613394
+
+[12:43:33.394]: Repearing node #1_122: Namenode has scheduled to repair block #530_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #580_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #630_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #680_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #730_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #780_2, FailTime: 1453799613394
+
+[12:43:33.395]: Repearing node #1_122: Namenode has scheduled to repair block #30_2, FailTime: 1453799613394
+
+[12:43:33.396]: Repearing node #1_122: Namenode has scheduled to repair block #230_2, FailTime: 1453799613394
+
+[12:43:33.396]: Repearing node #1_122: Namenode has scheduled to repair block #130_2, FailTime: 1453799613394
+
+[12:43:33.397]: Repearing node #1_122: Namenode has scheduled to repair block #380_2, FailTime: 1453799613394
+
+[12:43:33.397]: Repearing node #1_122: Namenode has scheduled to repair block #2130_2, FailTime: 1453799613394
+
+[12:43:38.329]: Datanode #1_101 has received a block #2130_2, and TTR is: 4935
+
+[12:43:39.560]: Datanode #1_101 has received a block #430_2, and TTR is: 6166
+
+[12:43:44.914]: Datanode #1_101 has received a block #480_2, and TTR is: 11520
+
+[12:43:50.297]: Datanode #1_101 has received a block #530_2, and TTR is: 16903
+
+[12:43:55.639]: Datanode #1_101 has received a block #580_2, and TTR is: 22245
+
+[12:44:00.968]: Datanode #1_101 has received a block #630_2, and TTR is: 27574
+
+[12:44:06.991]: Datanode #1_101 has received a block #680_2, and TTR is: 33597
+
+[12:44:12.430]: Datanode #1_101 has received a block #730_2, and TTR is: 39036
+
+[12:44:18.361]: Datanode #1_101 has received a block #780_2, and TTR is: 44967
+
+[12:44:23.811]: Datanode #1_101 has received a block #30_2, and TTR is: 50417
+
+[12:44:29.177]: Datanode #1_101 has received a block #230_2, and TTR is: 55783
+
+[12:44:34.569]: Datanode #1_101 has received a block #130_2, and TTR is: 61175
+
+[12:44:40.468]: Datanode #1_101 has received a block #380_2, and TTR is: 67074
+
+[12:45:07.354]: Datanode #5_110 has failed . . .
+
+[12:45:13.129]: Namenode #5 has detected a failure in Datanode #5_110
+
+[12:45:13.129]: Repearing node #5_110: Namenode has scheduled to repair block #2027_2, FailTime: 1453799713129
+
+[12:45:13.129]: Repearing node #5_110: Namenode has scheduled to repair block #2077_2, FailTime: 1453799713129
+
+[12:45:13.129]: Repearing node #5_110: Namenode has scheduled to repair block #2127_2, FailTime: 1453799713129
+
+[12:45:13.129]: Repearing node #5_110: Namenode has scheduled to repair block #2177_2, FailTime: 1453799713129
+
+[12:45:13.129]: Repearing node #5_110: Namenode has scheduled to repair block #2227_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #2277_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #2327_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #2377_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #3827_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #3727_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #3677_2, FailTime: 1453799713129
+
+[12:45:13.130]: Repearing node #5_110: Namenode has scheduled to repair block #3627_2, FailTime: 1453799713129
+
+[12:45:13.131]: Repearing node #5_110: Namenode has scheduled to repair block #3777_2, FailTime: 1453799713129
+
+[12:45:13.131]: Repearing node #5_110: Namenode has scheduled to repair block #3977_2, FailTime: 1453799713129
+
+[12:45:13.131]: Repearing node #5_110: Namenode has scheduled to repair block #1227_2, FailTime: 1453799713129
+
+[12:45:19.518]: Datanode #5_168 has received a block #2027_2, and TTR is: 6389
+
+[12:45:20.149]: Datanode #5_168 has received a block #3827_2, and TTR is: 7020
+
+[12:45:25.062]: Datanode #5_168 has received a block #2077_2, and TTR is: 11933
+
+[12:45:25.062]: Datanode #5_168 has received a block #3727_2, and TTR is: 11933
+
+[12:45:30.597]: Datanode #5_168 has received a block #2127_2, and TTR is: 17468
+
+[12:45:33.079]: Datanode #5_168 has received a block #3677_2, and TTR is: 19950
+
+[12:45:35.637]: Datanode #5_168 has received a block #2177_2, and TTR is: 22508
+
+[12:45:37.986]: Datanode #5_168 has received a block #3627_2, and TTR is: 24857
+
+[12:45:41.068]: Datanode #5_168 has received a block #2227_2, and TTR is: 27939
+
+[12:45:42.843]: Datanode #5_168 has received a block #3777_2, and TTR is: 29714
+
+[12:45:46.492]: Datanode #5_168 has received a block #2277_2, and TTR is: 33363
+
+[12:45:48.385]: Datanode #5_168 has received a block #3977_2, and TTR is: 35256
+
+[12:45:52.164]: Datanode #5_168 has received a block #2327_2, and TTR is: 39035
+
+[12:45:57.698]: Datanode #5_168 has received a block #2377_2, and TTR is: 44569
+
+[12:46:03.090]: Datanode #5_168 has received a block #1227_2, and TTR is: 49961
+
+[12:46:47.513]: Datanode #6_108 has failed . . .
+
+[12:46:57.164]: Namenode #6 has detected a failure in Datanode #6_108
+
+[12:46:57.164]: Repearing node #6_108: Namenode has scheduled to repair block #2427_0, FailTime: 1453799817164
+
+[12:46:57.164]: Repearing node #6_108: Namenode has scheduled to repair block #2477_0, FailTime: 1453799817164
+
+[12:46:57.164]: Repearing node #6_108: Namenode has scheduled to repair block #2527_0, FailTime: 1453799817164
+
+[12:46:57.164]: Repearing node #6_108: Namenode has scheduled to repair block #2577_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #2627_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #2677_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #2727_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #2777_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #3277_0, FailTime: 1453799817164
+
+[12:46:57.165]: Repearing node #6_108: Namenode has scheduled to repair block #3327_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3227_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3427_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3577_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3377_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3527_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #3477_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #27_0, FailTime: 1453799817164
+
+[12:46:57.168]: Repearing node #6_108: Namenode has scheduled to repair block #77_0, FailTime: 1453799817164
+
+[12:47:02.966]: Datanode #6_100 has received a block #3277_0, and TTR is: 5802
+
+[12:47:03.622]: Datanode #6_100 has received a block #77_0, and TTR is: 6458
+
+[12:47:03.623]: Datanode #6_100 has received a block #2427_0, and TTR is: 6459
+
+[12:47:08.346]: Datanode #6_100 has received a block #3327_0, and TTR is: 11182
+
+[12:47:08.949]: Datanode #6_100 has received a block #2477_0, and TTR is: 11785
+
+[12:47:13.369]: Datanode #6_100 has received a block #3227_0, and TTR is: 16205
+
+[12:47:14.577]: Datanode #6_100 has received a block #2527_0, and TTR is: 17413
+
+[12:47:20.122]: Datanode #6_100 has received a block #2577_0, and TTR is: 22958
+
+[12:47:21.374]: Datanode #6_100 has received a block #3427_0, and TTR is: 24210
+
+[12:47:25.637]: Datanode #6_100 has received a block #2627_0, and TTR is: 28473
+
+[12:47:26.303]: Datanode #6_100 has received a block #3577_0, and TTR is: 29139
+
+[12:47:30.717]: Datanode #6_100 has received a block #2677_0, and TTR is: 33553
+
+[12:47:32.029]: Datanode #6_100 has received a block #3377_0, and TTR is: 34865
+
+[12:47:35.662]: Datanode #6_100 has received a block #2727_0, and TTR is: 38498
+
+[12:47:36.822]: Datanode #6_100 has received a block #3527_0, and TTR is: 39658
+
+[12:47:41.255]: Datanode #6_100 has received a block #2777_0, and TTR is: 44091
+
+[12:47:42.410]: Datanode #6_100 has received a block #3477_0, and TTR is: 45246
+
+[12:47:47.229]: Datanode #6_100 has received a block #27_0, and TTR is: 50065
+
+[12:47:47.229]: Datanode #6_108 is repeared. TTR is: 50065
+
+[12:48:27.609]: Datanode #3_30 has failed . . .
+
+[12:48:36.254]: Namenode #3 has detected a failure in Datanode #3_30
+
+[12:48:36.254]: Repearing node #3_30: Namenode has scheduled to repair block #1207_2, FailTime: 1453799916254
+
+[12:48:36.254]: Repearing node #3_30: Namenode has scheduled to repair block #1257_2, FailTime: 1453799916254
+
+[12:48:36.254]: Repearing node #3_30: Namenode has scheduled to repair block #1307_2, FailTime: 1453799916254
+
+[12:48:36.254]: Repearing node #3_30: Namenode has scheduled to repair block #1357_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #1407_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #1457_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #1507_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #1557_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #7_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #57_2, FailTime: 1453799916254
+
+[12:48:36.255]: Repearing node #3_30: Namenode has scheduled to repair block #107_2, FailTime: 1453799916254
+
+[12:48:36.256]: Repearing node #3_30: Namenode has scheduled to repair block #157_2, FailTime: 1453799916254
+
+[12:48:42.763]: Datanode #3_92 has received a block #1257_2, and TTR is: 6509
+
+[12:48:43.317]: Datanode #3_92 has received a block #1207_2, and TTR is: 7063
+
+[12:48:48.056]: Datanode #3_92 has received a block #1307_2, and TTR is: 11802
+
+[12:48:48.687]: Datanode #3_92 has received a block #1457_2, and TTR is: 12433
+
+[12:48:53.341]: Datanode #3_92 has received a block #1357_2, and TTR is: 17087
+
+[12:48:54.527]: Datanode #3_92 has received a block #7_2, and TTR is: 18273
+
+[12:48:59.263]: Datanode #3_92 has received a block #1407_2, and TTR is: 23009
+
+[12:48:59.839]: Datanode #3_92 has received a block #57_2, and TTR is: 23585
+
+[12:49:04.562]: Datanode #3_92 has received a block #1507_2, and TTR is: 28308
+
+[12:49:05.146]: Datanode #3_92 has received a block #107_2, and TTR is: 28892
+
+[12:49:09.961]: Datanode #3_92 has received a block #1557_2, and TTR is: 33707
+
+[12:49:10.623]: Datanode #3_92 has received a block #157_2, and TTR is: 34369
+
+[12:50:07.669]: Datanode #5_181 has failed . . .
+
+[12:50:15.312]: Namenode #5 has detected a failure in Datanode #5_181
+
+[12:50:15.312]: Repearing node #5_181: Namenode has scheduled to repair block #2045_1, FailTime: 1453800015312
+
+[12:50:15.312]: Repearing node #5_181: Namenode has scheduled to repair block #2095_1, FailTime: 1453800015312
+
+[12:50:15.312]: Repearing node #5_181: Namenode has scheduled to repair block #2145_1, FailTime: 1453800015312
+
+[12:50:15.313]: Repearing node #5_181: Namenode has scheduled to repair block #2195_1, FailTime: 1453800015312
+
+[12:50:15.313]: Repearing node #5_181: Namenode has scheduled to repair block #2245_1, FailTime: 1453800015312
+
+[12:50:15.313]: Repearing node #5_181: Namenode has scheduled to repair block #2295_1, FailTime: 1453800015312
+
+[12:50:15.313]: Repearing node #5_181: Namenode has scheduled to repair block #2345_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #2395_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #3795_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #3695_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #3745_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #3645_1, FailTime: 1453800015312
+
+[12:50:15.314]: Repearing node #5_181: Namenode has scheduled to repair block #3995_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #3945_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #1245_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #1545_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #1495_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #1295_1, FailTime: 1453800015312
+
+[12:50:15.315]: Repearing node #5_181: Namenode has scheduled to repair block #1445_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #1345_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #1595_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #1395_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #2445_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #2695_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #2595_1, FailTime: 1453800015312
+
+[12:50:15.316]: Repearing node #5_181: Namenode has scheduled to repair block #2745_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2495_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2545_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2645_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2795_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2995_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #3145_1, FailTime: 1453800015312
+
+[12:50:15.317]: Repearing node #5_181: Namenode has scheduled to repair block #2845_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #2895_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #2945_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #3045_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #3195_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #3095_1, FailTime: 1453800015312
+
+[12:50:15.318]: Repearing node #5_181: Namenode has scheduled to repair block #3895_1, FailTime: 1453800015312
+
+[12:50:15.319]: Repearing node #5_181: Namenode has scheduled to repair block #3845_1, FailTime: 1453800015312
+
+[12:50:15.319]: Repearing node #5_181: Namenode has scheduled to repair block #895_1, FailTime: 1453800015312
+
+[12:50:21.472]: Datanode #5_169 has received a block #2445_1, and TTR is: 6160
+
+[12:50:21.472]: Datanode #5_169 has received a block #2045_1, and TTR is: 6160
+
+[12:50:22.086]: Datanode #5_169 has received a block #3645_1, and TTR is: 6774
+
+[12:50:23.260]: Datanode #5_169 has received a block #2995_1, and TTR is: 7948
+
+[12:50:23.858]: Datanode #5_169 has received a block #3795_1, and TTR is: 8546
+
+[12:50:26.905]: Datanode #5_169 has received a block #2095_1, and TTR is: 11593
+
+[12:50:26.905]: Datanode #5_169 has received a block #2695_1, and TTR is: 11593
+
+[12:50:28.093]: Datanode #5_169 has received a block #895_1, and TTR is: 12781
+
+[12:50:28.674]: Datanode #5_169 has received a block #3145_1, and TTR is: 13362
+
+[12:50:28.674]: Datanode #5_169 has received a block #3695_1, and TTR is: 13362
+
+[12:50:32.290]: Datanode #5_169 has received a block #2145_1, and TTR is: 16978
+
+[12:50:32.290]: Datanode #5_169 has received a block #2595_1, and TTR is: 16978
+
+[12:50:33.455]: Datanode #5_169 has received a block #2845_1, and TTR is: 18143
+
+[12:50:34.072]: Datanode #5_169 has received a block #3745_1, and TTR is: 18760
+
+[12:50:37.591]: Datanode #5_169 has received a block #2745_1, and TTR is: 22279
+
+[12:50:37.591]: Datanode #5_169 has received a block #2195_1, and TTR is: 22279
+
+[12:50:38.859]: Datanode #5_169 has received a block #2895_1, and TTR is: 23547
+
+[12:50:39.454]: Datanode #5_169 has received a block #3995_1, and TTR is: 24142
+
+[12:50:43.052]: Datanode #5_169 has received a block #2245_1, and TTR is: 27740
+
+[12:50:43.052]: Datanode #5_169 has received a block #2495_1, and TTR is: 27740
+
+[12:50:44.229]: Datanode #5_169 has received a block #2945_1, and TTR is: 28917
+
+[12:50:44.229]: Datanode #5_169 has received a block #3945_1, and TTR is: 28917
+
+[12:50:49.077]: Datanode #5_169 has received a block #2295_1, and TTR is: 33765
+
+[12:50:49.077]: Datanode #5_169 has received a block #2545_1, and TTR is: 33765
+
+[12:50:49.077]: Datanode #5_169 has received a block #3045_1, and TTR is: 33765
+
+[12:50:49.738]: Datanode #5_169 has received a block #3895_1, and TTR is: 34426
+
+[12:50:54.502]: Datanode #5_169 has received a block #2345_1, and TTR is: 39190
+
+[12:50:54.502]: Datanode #5_169 has received a block #2645_1, and TTR is: 39190
+
+[12:50:54.502]: Datanode #5_169 has received a block #3195_1, and TTR is: 39190
+
+[12:50:55.088]: Datanode #5_169 has received a block #3845_1, and TTR is: 39776
+
+[12:50:59.835]: Datanode #5_169 has received a block #2795_1, and TTR is: 44523
+
+[12:50:59.835]: Datanode #5_169 has received a block #2395_1, and TTR is: 44523
+
+[12:50:59.835]: Datanode #5_169 has received a block #3095_1, and TTR is: 44523
+
+[12:51:05.107]: Datanode #5_169 has received a block #1245_1, and TTR is: 49795
+
+[12:51:10.474]: Datanode #5_169 has received a block #1545_1, and TTR is: 55162
+
+[12:51:16.390]: Datanode #5_169 has received a block #1495_1, and TTR is: 61078
+
+[12:51:21.738]: Datanode #5_169 has received a block #1295_1, and TTR is: 66426
+
+[12:51:26.590]: Datanode #5_169 has received a block #1445_1, and TTR is: 71278
+
+[12:51:32.480]: Datanode #5_169 has received a block #1345_1, and TTR is: 77168
+
+[12:51:38.375]: Datanode #5_169 has received a block #1595_1, and TTR is: 83063
+
+[12:51:43.710]: Datanode #5_169 has received a block #1395_1, and TTR is: 88398
+
+[12:51:47.759]: Datanode #1_120 has failed . . .
+
+[12:51:54.160]: Namenode #1 has detected a failure in Datanode #1_120
+
+[12:51:54.160]: Repearing node #1_120: Namenode has scheduled to repair block #430_0, FailTime: 1453800114160
+
+[12:51:54.161]: Repearing node #1_120: Namenode has scheduled to repair block #480_0, FailTime: 1453800114160
+
+[12:51:54.161]: Repearing node #1_120: Namenode has scheduled to repair block #530_0, FailTime: 1453800114160
+
+[12:51:54.162]: Repearing node #1_120: Namenode has scheduled to repair block #580_0, FailTime: 1453800114160
+
+[12:51:54.162]: Repearing node #1_120: Namenode has scheduled to repair block #630_0, FailTime: 1453800114160
+
+[12:51:54.163]: Repearing node #1_120: Namenode has scheduled to repair block #680_0, FailTime: 1453800114160
+
+[12:51:54.164]: Repearing node #1_120: Namenode has scheduled to repair block #730_0, FailTime: 1453800114160
+
+[12:51:54.164]: Repearing node #1_120: Namenode has scheduled to repair block #780_0, FailTime: 1453800114160
+
+[12:51:54.165]: Repearing node #1_120: Namenode has scheduled to repair block #30_0, FailTime: 1453800114160
+
+[12:51:54.165]: Repearing node #1_120: Namenode has scheduled to repair block #230_0, FailTime: 1453800114160
+
+[12:51:54.166]: Repearing node #1_120: Namenode has scheduled to repair block #130_0, FailTime: 1453800114160
+
+[12:51:54.166]: Repearing node #1_120: Namenode has scheduled to repair block #380_0, FailTime: 1453800114160
+
+[12:51:54.167]: Repearing node #1_120: Namenode has scheduled to repair block #2130_0, FailTime: 1453800114160
+
+[12:51:59.225]: Datanode #1_102 has received a block #2130_0, and TTR is: 5065
+
+[12:52:01.043]: Datanode #1_102 has received a block #430_0, and TTR is: 6883
+
+[12:52:06.412]: Datanode #1_102 has received a block #480_0, and TTR is: 12252
+
+[12:52:12.300]: Datanode #1_102 has received a block #530_0, and TTR is: 18140
+
+[12:52:17.888]: Datanode #1_102 has received a block #580_0, and TTR is: 23728
+
+[12:52:23.325]: Datanode #1_102 has received a block #630_0, and TTR is: 29165
+
+[12:52:28.673]: Datanode #1_102 has received a block #680_0, and TTR is: 34513
+
+[12:52:34.134]: Datanode #1_102 has received a block #730_0, and TTR is: 39974
+
+[12:52:39.010]: Datanode #1_102 has received a block #780_0, and TTR is: 44850
+
+[12:52:44.928]: Datanode #1_102 has received a block #30_0, and TTR is: 50768
+
+[12:52:50.276]: Datanode #1_102 has received a block #230_0, and TTR is: 56116
+
+[12:52:55.660]: Datanode #1_102 has received a block #130_0, and TTR is: 61500
+
+[12:53:00.932]: Datanode #1_102 has received a block #380_0, and TTR is: 66772
+
+[12:53:27.853]: Datanode #4_187 has failed . . .
+
+[12:53:33.429]: Namenode #4 has detected a failure in Datanode #4_187
+
+[12:53:33.429]: Repearing node #4_187: Namenode has scheduled to repair block #1646_3, FailTime: 1453800213429
+
+[12:53:33.429]: Repearing node #4_187: Namenode has scheduled to repair block #1696_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1746_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1796_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1846_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1896_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1946_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #1996_3, FailTime: 1453800213429
+
+[12:53:33.430]: Repearing node #4_187: Namenode has scheduled to repair block #46_3, FailTime: 1453800213429
+
+[12:53:38.703]: Datanode #4_156 has received a block #1646_3, and TTR is: 5274
+
+[12:53:44.110]: Datanode #4_156 has received a block #1696_3, and TTR is: 10681
+
+[12:53:50.025]: Datanode #4_156 has received a block #1746_3, and TTR is: 16596
+
+[12:53:55.515]: Datanode #4_156 has received a block #1796_3, and TTR is: 22086
+
+[12:54:01.006]: Datanode #4_156 has received a block #1846_3, and TTR is: 27577
+
+[12:54:06.313]: Datanode #4_156 has received a block #1896_3, and TTR is: 32884
+
+[12:54:11.661]: Datanode #4_156 has received a block #1946_3, and TTR is: 38232
+
+[12:54:17.016]: Datanode #4_156 has received a block #1996_3, and TTR is: 43587
+
+[12:54:22.942]: Datanode #4_156 has received a block #46_3, and TTR is: 49513
+
+[12:55:07.951]: Datanode #7_190 has failed . . .
+
+[12:55:15.542]: Namenode #7 has detected a failure in Datanode #7_190
+
+[12:55:15.542]: Repearing node #7_190: Namenode has scheduled to repair block #2847_2, FailTime: 1453800315542
+
+[12:55:15.543]: Repearing node #7_190: Namenode has scheduled to repair block #2897_2, FailTime: 1453800315542
+
+[12:55:15.543]: Repearing node #7_190: Namenode has scheduled to repair block #2947_2, FailTime: 1453800315542
+
+[12:55:15.543]: Repearing node #7_190: Namenode has scheduled to repair block #2997_2, FailTime: 1453800315542
+
+[12:55:15.543]: Repearing node #7_190: Namenode has scheduled to repair block #3047_2, FailTime: 1453800315542
+
+[12:55:15.544]: Repearing node #7_190: Namenode has scheduled to repair block #3097_2, FailTime: 1453800315542
+
+[12:55:15.544]: Repearing node #7_190: Namenode has scheduled to repair block #3147_2, FailTime: 1453800315542
+
+[12:55:15.544]: Repearing node #7_190: Namenode has scheduled to repair block #3197_2, FailTime: 1453800315542
+
+[12:55:17.956]: Datanode #7_112 has received a block #2847_2, and TTR is: 2414
+
+[12:55:22.904]: Datanode #7_112 has received a block #2897_2, and TTR is: 7362
+
+[12:55:28.842]: Datanode #7_112 has received a block #2947_2, and TTR is: 13300
+
+[12:55:34.333]: Datanode #7_112 has received a block #2997_2, and TTR is: 18791
+
+[12:55:39.856]: Datanode #7_112 has received a block #3047_2, and TTR is: 24314
+
+[12:55:44.848]: Datanode #7_112 has received a block #3097_2, and TTR is: 29306
+
+[12:55:50.851]: Datanode #7_112 has received a block #3147_2, and TTR is: 35309
+
+[12:55:56.200]: Datanode #7_112 has received a block #3197_2, and TTR is: 40658
+
+[12:55:56.200]: Datanode #7_190 is repeared. TTR is: 40658
+
+[12:56:48.055]: Datanode #2_80 has failed . . .
+
+[12:56:56.273]: Namenode #2 has detected a failure in Datanode #2_80
+
+[12:56:56.274]: Repearing node #2_80: Namenode has scheduled to repair block #820_0, FailTime: 1453800416273
+
+[12:56:56.274]: Repearing node #2_80: Namenode has scheduled to repair block #870_0, FailTime: 1453800416273
+
+[12:56:59.087]: Datanode #2_76 has received a block #820_0, and TTR is: 2814
+
+[12:57:04.249]: Datanode #2_76 has received a block #870_0, and TTR is: 7976
+
+[12:58:28.257]: Datanode #0_78 has failed . . .
+
+[12:58:34.692]: Namenode #0 has detected a failure in Datanode #0_78
+
+[12:58:34.692]: Repearing node #0_78: Namenode has scheduled to repair block #19_2, FailTime: 1453800514692
+
+[12:58:34.693]: Repearing node #0_78: Namenode has scheduled to repair block #69_2, FailTime: 1453800514692
+
+[12:58:34.693]: Repearing node #0_78: Namenode has scheduled to repair block #119_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #169_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #219_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #269_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #319_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #369_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #419_2, FailTime: 1453800514692
+
+[12:58:34.694]: Repearing node #0_78: Namenode has scheduled to repair block #569_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #619_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #669_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #719_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #769_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #469_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #519_2, FailTime: 1453800514692
+
+[12:58:34.695]: Repearing node #0_78: Namenode has scheduled to repair block #819_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #919_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #869_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #1019_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #969_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #1069_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #1119_2, FailTime: 1453800514692
+
+[12:58:34.696]: Repearing node #0_78: Namenode has scheduled to repair block #1169_2, FailTime: 1453800514692
+
+[12:58:40.107]: Datanode #0_16 has received a block #19_2, and TTR is: 5415
+
+[12:58:40.107]: Datanode #0_16 has received a block #219_2, and TTR is: 5415
+
+[12:58:40.793]: Datanode #0_16 has received a block #269_2, and TTR is: 6101
+
+[12:58:45.655]: Datanode #0_16 has received a block #319_2, and TTR is: 10963
+
+[12:58:45.655]: Datanode #0_16 has received a block #69_2, and TTR is: 10963
+
+[12:58:51.415]: Datanode #0_16 has received a block #819_2, and TTR is: 16723
+
+[12:58:51.415]: Datanode #0_16 has received a block #119_2, and TTR is: 16723
+
+[12:58:57.153]: Datanode #0_16 has received a block #919_2, and TTR is: 22461
+
+[12:58:57.153]: Datanode #0_16 has received a block #169_2, and TTR is: 22461
+
+[12:59:02.727]: Datanode #0_16 has received a block #369_2, and TTR is: 28035
+
+[12:59:02.727]: Datanode #0_16 has received a block #869_2, and TTR is: 28035
+
+[12:59:08.331]: Datanode #0_16 has received a block #419_2, and TTR is: 33639
+
+[12:59:08.331]: Datanode #0_16 has received a block #1019_2, and TTR is: 33639
+
+[12:59:14.071]: Datanode #0_16 has received a block #969_2, and TTR is: 39379
+
+[12:59:14.071]: Datanode #0_16 has received a block #569_2, and TTR is: 39379
+
+[12:59:19.646]: Datanode #0_16 has received a block #1069_2, and TTR is: 44954
+
+[12:59:19.646]: Datanode #0_16 has received a block #619_2, and TTR is: 44954
+
+[12:59:24.698]: Datanode #0_16 has received a block #1119_2, and TTR is: 50006
+
+[12:59:25.291]: Datanode #0_16 has received a block #669_2, and TTR is: 50599
+
+[12:59:31.060]: Datanode #0_16 has received a block #1169_2, and TTR is: 56368
+
+[12:59:31.060]: Datanode #0_16 has received a block #719_2, and TTR is: 56368
+
+[12:59:36.105]: Datanode #0_16 has received a block #769_2, and TTR is: 61413
+
+[12:59:42.269]: Datanode #0_16 has received a block #469_2, and TTR is: 67577
+
+[12:59:47.949]: Datanode #0_16 has received a block #519_2, and TTR is: 73257
+
+[01:00:08.350]: Datanode #4_188 has failed . . .
+
+[01:00:15.694]: Namenode #4 has detected a failure in Datanode #4_188
+
+[01:00:15.695]: Repearing node #4_188: Namenode has scheduled to repair block #1647_0, FailTime: 1453800615694
+
+[01:00:15.695]: Repearing node #4_188: Namenode has scheduled to repair block #1697_0, FailTime: 1453800615694
+
+[01:00:15.695]: Repearing node #4_188: Namenode has scheduled to repair block #1747_0, FailTime: 1453800615694
+
+[01:00:15.695]: Repearing node #4_188: Namenode has scheduled to repair block #1797_0, FailTime: 1453800615694
+
+[01:00:15.696]: Repearing node #4_188: Namenode has scheduled to repair block #1847_0, FailTime: 1453800615694
+
+[01:00:15.696]: Repearing node #4_188: Namenode has scheduled to repair block #1897_0, FailTime: 1453800615694
+
+[01:00:15.696]: Repearing node #4_188: Namenode has scheduled to repair block #1947_0, FailTime: 1453800615694
+
+[01:00:15.696]: Repearing node #4_188: Namenode has scheduled to repair block #1997_0, FailTime: 1453800615694
+
+[01:00:15.696]: Repearing node #4_188: Namenode has scheduled to repair block #47_0, FailTime: 1453800615694
+
+[01:00:15.697]: Repearing node #4_188: Namenode has scheduled to repair block #197_0, FailTime: 1453800615694
+
+[01:00:15.697]: Repearing node #4_188: Namenode has scheduled to repair block #97_0, FailTime: 1453800615694
+
+[01:00:21.030]: Datanode #4_157 has received a block #1647_0, and TTR is: 5336
+
+[01:00:26.657]: Datanode #4_157 has received a block #1697_0, and TTR is: 10963
+
+[01:00:32.342]: Datanode #4_157 has received a block #1747_0, and TTR is: 16648
+
+[01:00:37.875]: Datanode #4_157 has received a block #1797_0, and TTR is: 22181
+
+[01:00:43.341]: Datanode #4_157 has received a block #1847_0, and TTR is: 27647
+
+[01:00:49.058]: Datanode #4_157 has received a block #1897_0, and TTR is: 33364
+
+[01:00:54.707]: Datanode #4_157 has received a block #1947_0, and TTR is: 39013
+
+[01:01:00.884]: Datanode #4_157 has received a block #1997_0, and TTR is: 45190
+
+[01:01:05.894]: Datanode #4_157 has received a block #47_0, and TTR is: 50200
+
+[01:01:11.989]: Datanode #4_157 has received a block #197_0, and TTR is: 56295
+
+[01:01:17.470]: Datanode #4_157 has received a block #97_0, and TTR is: 61776
+
+[01:01:48.427]: Datanode #3_128 has failed . . .
+
+[01:01:55.169]: Namenode #3 has detected a failure in Datanode #3_128
+
+[01:01:55.169]: Repearing node #3_128: Namenode has scheduled to repair block #1232_0, FailTime: 1453800715169
+
+[01:01:55.169]: Repearing node #3_128: Namenode has scheduled to repair block #1282_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1332_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1382_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1432_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1482_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1532_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #1582_0, FailTime: 1453800715169
+
+[01:01:55.170]: Repearing node #3_128: Namenode has scheduled to repair block #32_0, FailTime: 1453800715169
+
+[01:01:58.057]: Datanode #3_93 has received a block #1232_0, and TTR is: 2888
+
+[01:02:02.421]: Datanode #3_93 has received a block #1282_0, and TTR is: 7252
+
+[01:02:03.685]: Datanode #3_93 has received a block #32_0, and TTR is: 8516
+
+[01:02:08.062]: Datanode #3_93 has received a block #1332_0, and TTR is: 12893
+
+[01:02:14.139]: Datanode #3_93 has received a block #1382_0, and TTR is: 18970
+
+[01:02:19.066]: Datanode #3_93 has received a block #1432_0, and TTR is: 23897
+
+[01:02:25.249]: Datanode #3_93 has received a block #1482_0, and TTR is: 30080
+
+[01:02:31.101]: Datanode #3_93 has received a block #1532_0, and TTR is: 35932
+
+[01:02:36.666]: Datanode #3_93 has received a block #1582_0, and TTR is: 41497
+
+[01:03:28.539]: Datanode #1_44 has failed . . .
+
+[01:03:36.580]: Namenode #1 has detected a failure in Datanode #1_44
+
+[01:05:08.649]: Datanode #7_128 has failed . . .
+
+[01:05:17.947]: Namenode #7 has detected a failure in Datanode #7_128
+
+[01:05:17.948]: Repearing node #7_128: Namenode has scheduled to repair block #2832_0, FailTime: 1453800917947
+
+[01:05:17.948]: Repearing node #7_128: Namenode has scheduled to repair block #2882_0, FailTime: 1453800917947
+
+[01:05:21.249]: Datanode #7_113 has received a block #2832_0, and TTR is: 3302
+
+[01:05:27.252]: Datanode #7_113 has received a block #2882_0, and TTR is: 9305
+
+[01:06:48.822]: Datanode #0_1 has failed . . .
+
+[01:06:56.811]: Namenode #0 has detected a failure in Datanode #0_1
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #0_1, FailTime: 1453801016811
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #50_1, FailTime: 1453801016811
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #100_1, FailTime: 1453801016811
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #150_1, FailTime: 1453801016811
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #200_1, FailTime: 1453801016811
+
+[01:06:56.812]: Repearing node #0_1: Namenode has scheduled to repair block #250_1, FailTime: 1453801016811
+
+[01:06:56.813]: Repearing node #0_1: Namenode has scheduled to repair block #300_1, FailTime: 1453801016811
+
+[01:06:56.813]: Repearing node #0_1: Namenode has scheduled to repair block #350_1, FailTime: 1453801016811
+
+[01:06:56.813]: Repearing node #0_1: Namenode has scheduled to repair block #400_1, FailTime: 1453801016811
+
+[01:06:56.813]: Repearing node #0_1: Namenode has scheduled to repair block #450_1, FailTime: 1453801016811
+
+[01:06:56.813]: Repearing node #0_1: Namenode has scheduled to repair block #550_1, FailTime: 1453801016811
+
+[01:06:56.815]: Repearing node #0_1: Namenode has scheduled to repair block #600_1, FailTime: 1453801016811
+
+[01:06:56.815]: Repearing node #0_1: Namenode has scheduled to repair block #500_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #700_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #750_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #650_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #800_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #850_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #1000_1, FailTime: 1453801016811
+
+[01:06:56.816]: Repearing node #0_1: Namenode has scheduled to repair block #950_1, FailTime: 1453801016811
+
+[01:06:56.817]: Repearing node #0_1: Namenode has scheduled to repair block #900_1, FailTime: 1453801016811
+
+[01:06:56.818]: Repearing node #0_1: Namenode has scheduled to repair block #1100_1, FailTime: 1453801016811
+
+[01:06:56.818]: Repearing node #0_1: Namenode has scheduled to repair block #1150_1, FailTime: 1453801016811
+
+[01:06:56.818]: Repearing node #0_1: Namenode has scheduled to repair block #1050_1, FailTime: 1453801016811
+
+[01:06:56.818]: Repearing node #0_1: Namenode has scheduled to repair block #2350_1, FailTime: 1453801016811
+
+[01:06:56.818]: Repearing node #0_1: Namenode has scheduled to repair block #2314_3, FailTime: 1453801016811
+
+[01:07:02.908]: Datanode #0_17 has received a block #50_1, and TTR is: 6097
+
+[01:07:04.102]: Datanode #0_17 has received a block #200_1, and TTR is: 7291
+
+[01:07:04.103]: Datanode #0_17 has received a block #0_1, and TTR is: 7292
+
+[01:07:08.479]: Datanode #0_17 has received a block #100_1, and TTR is: 11668
+
+[01:07:09.721]: Datanode #0_17 has received a block #300_1, and TTR is: 12910
+
+[01:07:10.327]: Datanode #0_17 has received a block #150_1, and TTR is: 13516
+
+[01:07:14.613]: Datanode #0_17 has received a block #400_1, and TTR is: 17802
+
+[01:07:15.213]: Datanode #0_17 has received a block #600_1, and TTR is: 18402
+
+[01:07:15.728]: Datanode #0_17 has received a block #250_1, and TTR is: 18917
+
+[01:07:19.567]: Datanode #0_17 has received a block #450_1, and TTR is: 22756
+
+[01:07:20.838]: Datanode #0_17 has received a block #850_1, and TTR is: 24027
+
+[01:07:21.450]: Datanode #0_17 has received a block #350_1, and TTR is: 24639
+
+[01:07:25.932]: Datanode #0_17 has received a block #550_1, and TTR is: 29121
+
+[01:07:26.527]: Datanode #0_17 has received a block #1000_1, and TTR is: 29716
+
+[01:07:27.193]: Datanode #0_17 has received a block #2350_1, and TTR is: 30382
+
+[01:07:32.036]: Datanode #0_17 has received a block #500_1, and TTR is: 35225
+
+[01:07:32.036]: Datanode #0_17 has received a block #950_1, and TTR is: 35225
+
+[01:07:32.698]: Datanode #0_17 has received a block #2314_3, and TTR is: 35887
+
+[01:07:36.958]: Datanode #0_17 has received a block #700_1, and TTR is: 40147
+
+[01:07:38.261]: Datanode #0_17 has received a block #900_1, and TTR is: 41450
+
+[01:07:43.246]: Datanode #0_17 has received a block #750_1, and TTR is: 46435
+
+[01:07:44.471]: Datanode #0_17 has received a block #1100_1, and TTR is: 47660
+
+[01:07:48.848]: Datanode #0_17 has received a block #650_1, and TTR is: 52037
+
+[01:07:49.501]: Datanode #0_17 has received a block #1150_1, and TTR is: 52690
+
+[01:07:53.848]: Datanode #0_17 has received a block #800_1, and TTR is: 57037
+
+[01:07:55.679]: Datanode #0_17 has received a block #1050_1, and TTR is: 58868
+
+[01:08:28.937]: Datanode #2_39 has failed . . .
+
+[01:08:39.105]: Namenode #2 has detected a failure in Datanode #2_39
+
+[01:08:39.105]: Repearing node #2_39: Namenode has scheduled to repair block #809_3, FailTime: 1453801119105
+
+[01:08:39.105]: Repearing node #2_39: Namenode has scheduled to repair block #859_3, FailTime: 1453801119105
+
+[01:08:44.994]: Datanode #2_76 has received a block #809_3, and TTR is: 5889
+
+[01:08:51.393]: Datanode #2_76 has received a block #859_3, and TTR is: 12288
+
+[01:10:09.044]: Datanode #5_87 has failed . . .
+
+[01:11:49.237]: Datanode #3_133 has failed . . .
+
+[01:11:57.901]: Namenode #3 has detected a failure in Datanode #3_133
+
+[01:11:57.901]: Repearing node #3_133: Namenode has scheduled to repair block #1233_1, FailTime: 1453801317901
+
+[01:11:57.901]: Repearing node #3_133: Namenode has scheduled to repair block #1283_1, FailTime: 1453801317901
+
+[01:11:57.901]: Repearing node #3_133: Namenode has scheduled to repair block #1333_1, FailTime: 1453801317901
+
+[01:11:57.901]: Repearing node #3_133: Namenode has scheduled to repair block #1383_1, FailTime: 1453801317901
+
+[01:11:57.901]: Repearing node #3_133: Namenode has scheduled to repair block #1433_1, FailTime: 1453801317901
+
+[01:11:57.902]: Repearing node #3_133: Namenode has scheduled to repair block #1483_1, FailTime: 1453801317901
+
+[01:11:57.902]: Repearing node #3_133: Namenode has scheduled to repair block #1533_1, FailTime: 1453801317901
+
+[01:11:57.902]: Repearing node #3_133: Namenode has scheduled to repair block #1583_1, FailTime: 1453801317901
+
+[01:11:57.902]: Repearing node #3_133: Namenode has scheduled to repair block #33_1, FailTime: 1453801317901
+
+[01:11:57.903]: Repearing node #3_133: Namenode has scheduled to repair block #83_1, FailTime: 1453801317901
+
+[01:11:57.903]: Repearing node #3_133: Namenode has scheduled to repair block #133_1, FailTime: 1453801317901
+
+[01:12:00.411]: Datanode #3_172 has received a block #1283_1, and TTR is: 2510
+
+[01:12:00.411]: Datanode #3_172 has received a block #1233_1, and TTR is: 2510
+
+[01:12:05.924]: Datanode #3_172 has received a block #1333_1, and TTR is: 8023
+
+[01:12:05.924]: Datanode #3_172 has received a block #1483_1, and TTR is: 8023
+
+[01:12:11.548]: Datanode #3_172 has received a block #1383_1, and TTR is: 13647
+
+[01:12:11.549]: Datanode #3_172 has received a block #1533_1, and TTR is: 13648
+
+[01:12:17.296]: Datanode #3_172 has received a block #1583_1, and TTR is: 19395
+
+[01:12:17.296]: Datanode #3_172 has received a block #1433_1, and TTR is: 19395
+
+[01:12:23.023]: Datanode #3_172 has received a block #33_1, and TTR is: 25122
+
+[01:12:28.784]: Datanode #3_172 has received a block #83_1, and TTR is: 30883
+
+[01:12:34.416]: Datanode #3_172 has received a block #133_1, and TTR is: 36515
+
+[01:13:29.427]: Datanode #1_104 has failed . . .
+
+[01:13:39.632]: Namenode #1 has detected a failure in Datanode #1_104
+
+[01:13:39.632]: Repearing node #1_104: Namenode has scheduled to repair block #426_0, FailTime: 1453801419632
+
+[01:13:39.632]: Repearing node #1_104: Namenode has scheduled to repair block #476_0, FailTime: 1453801419632
+
+[01:13:39.632]: Repearing node #1_104: Namenode has scheduled to repair block #526_0, FailTime: 1453801419632
+
+[01:13:39.633]: Repearing node #1_104: Namenode has scheduled to repair block #576_0, FailTime: 1453801419632
+
+[01:13:39.633]: Repearing node #1_104: Namenode has scheduled to repair block #626_0, FailTime: 1453801419632
+
+[01:13:39.633]: Repearing node #1_104: Namenode has scheduled to repair block #676_0, FailTime: 1453801419632
+
+[01:13:43.797]: Datanode #1_1 has received a block #426_0, and TTR is: 4165
+
+[01:13:49.804]: Datanode #1_1 has received a block #476_0, and TTR is: 10172
+
+[01:13:55.534]: Datanode #1_1 has received a block #526_0, and TTR is: 15902
+
+[01:14:00.714]: Datanode #1_1 has received a block #576_0, and TTR is: 21082
+
+[01:14:06.474]: Datanode #1_1 has received a block #626_0, and TTR is: 26842
+
+[01:14:12.386]: Datanode #1_1 has received a block #676_0, and TTR is: 32754
+
+[01:15:09.529]: Datanode #4_155 has failed . . .
+
+[01:15:19.465]: Namenode #4 has detected a failure in Datanode #4_155
+
+[01:15:19.465]: Repearing node #4_155: Namenode has scheduled to repair block #1638_3, FailTime: 1453801519465
+
+[01:15:19.465]: Repearing node #4_155: Namenode has scheduled to repair block #1688_3, FailTime: 1453801519465
+
+[01:15:19.465]: Repearing node #4_155: Namenode has scheduled to repair block #1738_3, FailTime: 1453801519465
+
+[01:15:19.465]: Repearing node #4_155: Namenode has scheduled to repair block #1788_3, FailTime: 1453801519465
+
+[01:15:19.465]: Repearing node #4_155: Namenode has scheduled to repair block #1838_3, FailTime: 1453801519465
+
+[01:15:19.466]: Repearing node #4_155: Namenode has scheduled to repair block #1888_3, FailTime: 1453801519465
+
+[01:15:19.466]: Repearing node #4_155: Namenode has scheduled to repair block #1938_3, FailTime: 1453801519465
+
+[01:15:19.466]: Repearing node #4_155: Namenode has scheduled to repair block #1988_3, FailTime: 1453801519465
+
+[01:15:26.535]: Datanode #4_20 has received a block #1638_3, and TTR is: 7070
+
+[01:15:31.771]: Datanode #4_20 has received a block #1688_3, and TTR is: 12306
+
+[01:15:37.639]: Datanode #4_20 has received a block #1738_3, and TTR is: 18174
+
+[01:15:43.795]: Datanode #4_20 has received a block #1788_3, and TTR is: 24330
+
+[01:15:49.499]: Datanode #4_20 has received a block #1838_3, and TTR is: 30034
+
+[01:15:55.579]: Datanode #4_20 has received a block #1888_3, and TTR is: 36114
+
+[01:16:00.692]: Datanode #4_20 has received a block #1938_3, and TTR is: 41227
+
+[01:16:07.130]: Datanode #4_20 has received a block #1988_3, and TTR is: 47665
+
+[01:16:49.630]: Datanode #4_109 has failed . . .
+
+[01:16:57.095]: Namenode #4 has detected a failure in Datanode #4_109
+
+[01:16:57.096]: Repearing node #4_109: Namenode has scheduled to repair block #1627_1, FailTime: 1453801617095
+
+[01:16:59.487]: Datanode #4_21 has received a block #1627_1, and TTR is: 2392
+
+[01:18:29.844]: Datanode #1_152 has failed . . .
+
+[01:18:38.716]: Namenode #1 has detected a failure in Datanode #1_152
+
+[01:18:38.716]: Repearing node #1_152: Namenode has scheduled to repair block #438_0, FailTime: 1453801718716
+
+[01:18:38.716]: Repearing node #1_152: Namenode has scheduled to repair block #488_0, FailTime: 1453801718716
+
+[01:18:38.716]: Repearing node #1_152: Namenode has scheduled to repair block #538_0, FailTime: 1453801718716
+
+[01:18:38.717]: Repearing node #1_152: Namenode has scheduled to repair block #588_0, FailTime: 1453801718716
+
+[01:18:38.717]: Repearing node #1_152: Namenode has scheduled to repair block #638_0, FailTime: 1453801718716
+
+[01:18:38.717]: Repearing node #1_152: Namenode has scheduled to repair block #688_0, FailTime: 1453801718716
+
+[01:18:42.734]: Datanode #1_3 has received a block #438_0, and TTR is: 4018
+
+[01:18:48.510]: Datanode #1_3 has received a block #488_0, and TTR is: 9794
+
+[01:18:54.172]: Datanode #1_3 has received a block #538_0, and TTR is: 15456
+
+[01:19:00.051]: Datanode #1_3 has received a block #588_0, and TTR is: 21335
+
+[01:19:06.353]: Datanode #1_3 has received a block #638_0, and TTR is: 27637
+
+[01:19:11.991]: Datanode #1_3 has received a block #688_0, and TTR is: 33275
+
+[01:20:10.047]: Datanode #4_120 has failed . . .
+
+[01:20:18.954]: Namenode #4 has detected a failure in Datanode #4_120
+
+[01:20:18.954]: Repearing node #4_120: Namenode has scheduled to repair block #1630_0, FailTime: 1453801818954
+
+[01:20:18.954]: Repearing node #4_120: Namenode has scheduled to repair block #1680_0, FailTime: 1453801818954
+
+[01:20:18.954]: Repearing node #4_120: Namenode has scheduled to repair block #1730_0, FailTime: 1453801818954
+
+[01:20:18.954]: Repearing node #4_120: Namenode has scheduled to repair block #1780_0, FailTime: 1453801818954
+
+[01:20:18.954]: Repearing node #4_120: Namenode has scheduled to repair block #1830_0, FailTime: 1453801818954
+
+[01:20:18.955]: Repearing node #4_120: Namenode has scheduled to repair block #1880_0, FailTime: 1453801818954
+
+[01:20:18.955]: Repearing node #4_120: Namenode has scheduled to repair block #1930_0, FailTime: 1453801818954
+
+[01:20:18.955]: Repearing node #4_120: Namenode has scheduled to repair block #1980_0, FailTime: 1453801818954
+
+[01:20:21.364]: Datanode #4_22 has received a block #1630_0, and TTR is: 2410
+
+[01:20:27.107]: Datanode #4_22 has received a block #1680_0, and TTR is: 8153
+
+[01:20:32.434]: Datanode #4_22 has received a block #1730_0, and TTR is: 13480
+
+[01:20:38.354]: Datanode #4_22 has received a block #1780_0, and TTR is: 19400
+
+[01:20:44.162]: Datanode #4_22 has received a block #1830_0, and TTR is: 25208
+
+[01:20:49.474]: Datanode #4_22 has received a block #1880_0, and TTR is: 30520
+
+[01:20:55.403]: Datanode #4_22 has received a block #1930_0, and TTR is: 36449
+
+[01:21:01.204]: Datanode #4_22 has received a block #1980_0, and TTR is: 42250
+
+[01:21:50.168]: Datanode #7_10 has failed . . .
+
+[01:21:56.420]: Namenode #7 has detected a failure in Datanode #7_10
+
+[01:21:56.420]: Repearing node #7_10: Namenode has scheduled to repair block #2802_2, FailTime: 1453801916420
+
+[01:21:56.420]: Repearing node #7_10: Namenode has scheduled to repair block #2852_2, FailTime: 1453801916420
+
+[01:21:56.420]: Repearing node #7_10: Namenode has scheduled to repair block #2902_2, FailTime: 1453801916420
+
+[01:21:56.420]: Repearing node #7_10: Namenode has scheduled to repair block #2952_2, FailTime: 1453801916420
+
+[01:21:56.421]: Repearing node #7_10: Namenode has scheduled to repair block #3002_2, FailTime: 1453801916420
+
+[01:21:56.421]: Repearing node #7_10: Namenode has scheduled to repair block #3052_2, FailTime: 1453801916420
+
+[01:21:56.421]: Repearing node #7_10: Namenode has scheduled to repair block #3102_2, FailTime: 1453801916420
+
+[01:21:56.421]: Repearing node #7_10: Namenode has scheduled to repair block #3152_2, FailTime: 1453801916420
+
+[01:21:56.421]: Repearing node #7_10: Namenode has scheduled to repair block #2_2, FailTime: 1453801916420
+
+[01:21:59.354]: Datanode #7_123 has received a block #2802_2, and TTR is: 2934
+
+[01:22:04.945]: Datanode #7_123 has received a block #2852_2, and TTR is: 8525
+
+[01:22:10.639]: Datanode #7_123 has received a block #2902_2, and TTR is: 14219
+
+[01:22:16.801]: Datanode #7_123 has received a block #2952_2, and TTR is: 20381
+
+[01:22:22.431]: Datanode #7_123 has received a block #3002_2, and TTR is: 26011
+
+[01:22:28.005]: Datanode #7_123 has received a block #3052_2, and TTR is: 31585
+
+[01:22:33.346]: Datanode #7_123 has received a block #3102_2, and TTR is: 36926
+
+[01:22:39.150]: Datanode #7_123 has received a block #3152_2, and TTR is: 42730
+
+[01:22:44.786]: Datanode #7_123 has received a block #2_2, and TTR is: 48366
+
+[01:23:30.270]: Datanode #0_121 has failed . . .
+
+[01:23:39.701]: Namenode #0 has detected a failure in Datanode #0_121
+
+[01:23:39.702]: Repearing node #0_121: Namenode has scheduled to repair block #30_1, FailTime: 1453802019701
+
+[01:23:39.702]: Repearing node #0_121: Namenode has scheduled to repair block #80_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #130_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #180_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #230_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #280_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #330_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #380_1, FailTime: 1453802019701
+
+[01:23:39.703]: Repearing node #0_121: Namenode has scheduled to repair block #430_1, FailTime: 1453802019701
+
+[01:23:39.704]: Repearing node #0_121: Namenode has scheduled to repair block #480_1, FailTime: 1453802019701
+
+[01:23:39.704]: Repearing node #0_121: Namenode has scheduled to repair block #530_1, FailTime: 1453802019701
+
+[01:23:39.704]: Repearing node #0_121: Namenode has scheduled to repair block #680_1, FailTime: 1453802019701
+
+[01:23:39.704]: Repearing node #0_121: Namenode has scheduled to repair block #730_1, FailTime: 1453802019701
+
+[01:23:39.704]: Repearing node #0_121: Namenode has scheduled to repair block #780_1, FailTime: 1453802019701
+
+[01:23:39.707]: Repearing node #0_121: Namenode has scheduled to repair block #630_1, FailTime: 1453802019701
+
+[01:23:39.707]: Repearing node #0_121: Namenode has scheduled to repair block #580_1, FailTime: 1453802019701
+
+[01:23:39.708]: Repearing node #0_121: Namenode has scheduled to repair block #830_1, FailTime: 1453802019701
+
+[01:23:39.708]: Repearing node #0_121: Namenode has scheduled to repair block #930_1, FailTime: 1453802019701
+
+[01:23:39.709]: Repearing node #0_121: Namenode has scheduled to repair block #880_1, FailTime: 1453802019701
+
+[01:23:39.709]: Repearing node #0_121: Namenode has scheduled to repair block #980_1, FailTime: 1453802019701
+
+[01:23:39.710]: Repearing node #0_121: Namenode has scheduled to repair block #1130_1, FailTime: 1453802019701
+
+[01:23:39.711]: Repearing node #0_121: Namenode has scheduled to repair block #1030_1, FailTime: 1453802019701
+
+[01:23:39.711]: Repearing node #0_121: Namenode has scheduled to repair block #1180_1, FailTime: 1453802019701
+
+[01:23:39.712]: Repearing node #0_121: Namenode has scheduled to repair block #1080_1, FailTime: 1453802019701
+
+[01:23:39.712]: Repearing node #0_121: Namenode has scheduled to repair block #2330_1, FailTime: 1453802019701
+
+[01:23:39.713]: Repearing node #0_121: Namenode has scheduled to repair block #3930_1, FailTime: 1453802019701
+
+[01:23:39.713]: Repearing node #0_121: Namenode has scheduled to repair block #3530_1, FailTime: 1453802019701
+
+[01:23:39.713]: Repearing node #0_121: Namenode has scheduled to repair block #3280_1, FailTime: 1453802019701
+
+[01:23:39.714]: Repearing node #0_121: Namenode has scheduled to repair block #1580_1, FailTime: 1453802019701
+
+[01:23:39.714]: Repearing node #0_121: Namenode has scheduled to repair block #1280_1, FailTime: 1453802019701
+
+[01:23:39.714]: Repearing node #0_121: Namenode has scheduled to repair block #3430_1, FailTime: 1453802019701
+
+[01:23:39.715]: Repearing node #0_121: Namenode has scheduled to repair block #3680_1, FailTime: 1453802019701
+
+[01:23:39.716]: Repearing node #0_121: Namenode has scheduled to repair block #1380_1, FailTime: 1453802019701
+
+[01:23:39.716]: Repearing node #0_121: Namenode has scheduled to repair block #1430_1, FailTime: 1453802019701
+
+[01:23:39.716]: Repearing node #0_121: Namenode has scheduled to repair block #2030_1, FailTime: 1453802019701
+
+[01:23:39.716]: Repearing node #0_121: Namenode has scheduled to repair block #2180_1, FailTime: 1453802019701
+
+[01:23:39.717]: Repearing node #0_121: Namenode has scheduled to repair block #3480_1, FailTime: 1453802019701
+
+[01:23:43.856]: Datanode #0_18 has received a block #30_1, and TTR is: 4155
+
+[01:23:45.256]: Datanode #0_18 has received a block #80_1, and TTR is: 5555
+
+[01:23:45.256]: Datanode #0_18 has received a block #3280_1, and TTR is: 5555
+
+[01:23:46.461]: Datanode #0_18 has received a block #2330_1, and TTR is: 6760
+
+[01:23:47.782]: Datanode #0_18 has received a block #3930_1, and TTR is: 8081
+
+[01:23:49.127]: Datanode #0_18 has received a block #130_1, and TTR is: 9426
+
+[01:23:51.181]: Datanode #0_18 has received a block #230_1, and TTR is: 11480
+
+[01:23:51.181]: Datanode #0_18 has received a block #3430_1, and TTR is: 11480
+
+[01:23:51.887]: Datanode #0_18 has received a block #1580_1, and TTR is: 12186
+
+[01:23:53.205]: Datanode #0_18 has received a block #3530_1, and TTR is: 13504
+
+[01:23:55.824]: Datanode #0_18 has received a block #180_1, and TTR is: 16123
+
+[01:23:56.428]: Datanode #0_18 has received a block #280_1, and TTR is: 16727
+
+[01:23:56.428]: Datanode #0_18 has received a block #3480_1, and TTR is: 16727
+
+[01:23:57.769]: Datanode #0_18 has received a block #1280_1, and TTR is: 18068
+
+[01:23:58.488]: Datanode #0_18 has received a block #3680_1, and TTR is: 18787
+
+[01:24:00.556]: Datanode #0_18 has received a block #330_1, and TTR is: 20855
+
+[01:24:02.605]: Datanode #0_18 has received a block #730_1, and TTR is: 22904
+
+[01:24:03.314]: Datanode #0_18 has received a block #1380_1, and TTR is: 23613
+
+[01:24:04.675]: Datanode #0_18 has received a block #2030_1, and TTR is: 24974
+
+[01:24:07.145]: Datanode #0_18 has received a block #380_1, and TTR is: 27444
+
+[01:24:08.445]: Datanode #0_18 has received a block #930_1, and TTR is: 28744
+
+[01:24:09.130]: Datanode #0_18 has received a block #1430_1, and TTR is: 29429
+
+[01:24:12.497]: Datanode #0_18 has received a block #430_1, and TTR is: 32796
+
+[01:24:13.692]: Datanode #0_18 has received a block #980_1, and TTR is: 33991
+
+[01:24:14.285]: Datanode #0_18 has received a block #2180_1, and TTR is: 34584
+
+[01:24:18.187]: Datanode #0_18 has received a block #480_1, and TTR is: 38486
+
+[01:24:19.562]: Datanode #0_18 has received a block #1130_1, and TTR is: 39861
+
+[01:24:23.441]: Datanode #0_18 has received a block #530_1, and TTR is: 43740
+
+[01:24:25.458]: Datanode #0_18 has received a block #1030_1, and TTR is: 45757
+
+[01:24:29.324]: Datanode #0_18 has received a block #680_1, and TTR is: 49623
+
+[01:24:30.705]: Datanode #0_18 has received a block #1180_1, and TTR is: 51004
+
+[01:24:35.953]: Datanode #0_18 has received a block #780_1, and TTR is: 56252
+
+[01:24:36.645]: Datanode #0_18 has received a block #1080_1, and TTR is: 56944
+
+[01:24:41.394]: Datanode #0_18 has received a block #630_1, and TTR is: 61693
+
+[01:24:46.995]: Datanode #0_18 has received a block #580_1, and TTR is: 67294
+
+[01:24:53.100]: Datanode #0_18 has received a block #830_1, and TTR is: 73399
+
+[01:24:58.780]: Datanode #0_18 has received a block #880_1, and TTR is: 79079
+
+[01:24:58.780]: Datanode #0_121 is repeared. TTR is: 79079
+
+[01:25:10.373]: Datanode #6_87 has failed . . .
+
+[01:25:15.428]: Namenode #6 has detected a failure in Datanode #6_87
+
+[01:25:15.428]: Repearing node #6_87: Namenode has scheduled to repair block #2421_3, FailTime: 1453802115428
+
+[01:25:15.428]: Repearing node #6_87: Namenode has scheduled to repair block #2471_3, FailTime: 1453802115428
+
+[01:25:15.428]: Repearing node #6_87: Namenode has scheduled to repair block #2521_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #2571_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #2621_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #2671_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #2721_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #2771_3, FailTime: 1453802115428
+
+[01:25:15.429]: Repearing node #6_87: Namenode has scheduled to repair block #3271_3, FailTime: 1453802115428
+
+[01:25:15.430]: Repearing node #6_87: Namenode has scheduled to repair block #3321_3, FailTime: 1453802115428
+
+[01:25:15.430]: Repearing node #6_87: Namenode has scheduled to repair block #3221_3, FailTime: 1453802115428
+
+[01:25:15.430]: Repearing node #6_87: Namenode has scheduled to repair block #3421_3, FailTime: 1453802115428
+
+[01:25:15.431]: Repearing node #6_87: Namenode has scheduled to repair block #3471_3, FailTime: 1453802115428
+
+[01:25:15.431]: Repearing node #6_87: Namenode has scheduled to repair block #3371_3, FailTime: 1453802115428
+
+[01:25:15.432]: Repearing node #6_87: Namenode has scheduled to repair block #3521_3, FailTime: 1453802115428
+
+[01:25:15.433]: Repearing node #6_87: Namenode has scheduled to repair block #3571_3, FailTime: 1453802115428
+
+[01:25:15.434]: Repearing node #6_87: Namenode has scheduled to repair block #21_3, FailTime: 1453802115428
+
+[01:25:18.385]: Datanode #6_48 has received a block #3271_3, and TTR is: 2957
+
+[01:25:19.706]: Datanode #6_48 has received a block #2421_3, and TTR is: 4278
+
+[01:25:20.291]: Datanode #6_48 has received a block #3321_3, and TTR is: 4863
+
+[01:25:24.375]: Datanode #6_48 has received a block #3221_3, and TTR is: 8947
+
+[01:25:25.689]: Datanode #6_48 has received a block #2471_3, and TTR is: 10261
+
+[01:25:25.689]: Datanode #6_48 has received a block #3421_3, and TTR is: 10261
+
+[01:25:30.191]: Datanode #6_48 has received a block #3471_3, and TTR is: 14763
+
+[01:25:31.420]: Datanode #6_48 has received a block #2521_3, and TTR is: 15992
+
+[01:25:33.390]: Datanode #6_48 has received a block #3371_3, and TTR is: 17962
+
+[01:25:35.979]: Datanode #6_48 has received a block #3571_3, and TTR is: 20551
+
+[01:25:35.979]: Datanode #6_48 has received a block #3521_3, and TTR is: 20551
+
+[01:25:36.691]: Datanode #6_48 has received a block #2571_3, and TTR is: 21263
+
+[01:25:42.455]: Datanode #6_48 has received a block #2621_3, and TTR is: 27027
+
+[01:25:44.373]: Datanode #6_48 has received a block #21_3, and TTR is: 28945
+
+[01:25:48.131]: Datanode #6_48 has received a block #2671_3, and TTR is: 32703
+
+[01:25:53.757]: Datanode #6_48 has received a block #2721_3, and TTR is: 38329
+
+[01:25:59.379]: Datanode #6_48 has received a block #2771_3, and TTR is: 43951
+
+[01:26:50.475]: Datanode #4_131 has failed . . .
+
+[01:26:59.082]: Namenode #4 has detected a failure in Datanode #4_131
+
+[01:26:59.082]: Repearing node #4_131: Namenode has scheduled to repair block #1632_3, FailTime: 1453802219082
+
+[01:26:59.082]: Repearing node #4_131: Namenode has scheduled to repair block #1682_3, FailTime: 1453802219082
+
+[01:26:59.082]: Repearing node #4_131: Namenode has scheduled to repair block #1732_3, FailTime: 1453802219082
+
+[01:26:59.084]: Repearing node #4_131: Namenode has scheduled to repair block #1782_3, FailTime: 1453802219082
+
+[01:26:59.084]: Repearing node #4_131: Namenode has scheduled to repair block #1832_3, FailTime: 1453802219082
+
+[01:26:59.084]: Repearing node #4_131: Namenode has scheduled to repair block #1882_3, FailTime: 1453802219082
+
+[01:26:59.084]: Repearing node #4_131: Namenode has scheduled to repair block #1932_3, FailTime: 1453802219082
+
+[01:26:59.084]: Repearing node #4_131: Namenode has scheduled to repair block #1982_3, FailTime: 1453802219082
+
+[01:26:59.085]: Repearing node #4_131: Namenode has scheduled to repair block #32_3, FailTime: 1453802219082
+
+[01:26:59.085]: Repearing node #4_131: Namenode has scheduled to repair block #2132_3, FailTime: 1453802219082
+
+[01:27:01.393]: Datanode #4_23 has received a block #1632_3, and TTR is: 2311
+
+[01:27:07.127]: Datanode #4_23 has received a block #1682_3, and TTR is: 8045
+
+[01:27:12.795]: Datanode #4_23 has received a block #1732_3, and TTR is: 13713
+
+[01:27:18.474]: Datanode #4_23 has received a block #1782_3, and TTR is: 19392
+
+[01:27:24.400]: Datanode #4_23 has received a block #1832_3, and TTR is: 25318
+
+[01:27:30.090]: Datanode #4_23 has received a block #1882_3, and TTR is: 31008
+
+[01:27:35.265]: Datanode #4_23 has received a block #1932_3, and TTR is: 36183
+
+[01:27:41.789]: Datanode #4_23 has received a block #1982_3, and TTR is: 42707
+
+[01:27:46.881]: Datanode #4_23 has received a block #32_3, and TTR is: 47799
+
+[01:27:52.706]: Datanode #4_23 has received a block #2132_3, and TTR is: 53624
+
+[01:28:30.686]: Datanode #5_119 has failed . . .
+
+[01:28:36.795]: Namenode #5 has detected a failure in Datanode #5_119
+
+[01:28:36.795]: Repearing node #5_119: Namenode has scheduled to repair block #2029_3, FailTime: 1453802316795
+
+[01:28:36.796]: Repearing node #5_119: Namenode has scheduled to repair block #2079_3, FailTime: 1453802316795
+
+[01:28:44.712]: Datanode #5_76 has received a block #2029_3, and TTR is: 7917
+
+[01:28:49.786]: Datanode #5_76 has received a block #2079_3, and TTR is: 12991
+
+[01:30:10.783]: Datanode #5_82 has failed . . .
+
+[01:30:19.863]: Namenode #5 has detected a failure in Datanode #5_82
+
+[01:30:19.863]: Repearing node #5_82: Namenode has scheduled to repair block #2020_2, FailTime: 1453802419863
+
+[01:30:19.863]: Repearing node #5_82: Namenode has scheduled to repair block #2070_2, FailTime: 1453802419863
+
+[01:30:19.863]: Repearing node #5_82: Namenode has scheduled to repair block #2120_2, FailTime: 1453802419863
+
+[01:30:19.863]: Repearing node #5_82: Namenode has scheduled to repair block #2170_2, FailTime: 1453802419863
+
+[01:30:19.863]: Repearing node #5_82: Namenode has scheduled to repair block #2220_2, FailTime: 1453802419863
+
+[01:30:27.193]: Datanode #5_78 has received a block #2020_2, and TTR is: 7330
+
+[01:30:33.467]: Datanode #5_78 has received a block #2070_2, and TTR is: 13604
+
+[01:30:38.577]: Datanode #5_78 has received a block #2120_2, and TTR is: 18714
+
+[01:30:44.470]: Datanode #5_78 has received a block #2170_2, and TTR is: 24607
+
+[01:30:50.195]: Datanode #5_78 has received a block #2220_2, and TTR is: 30332
+
+[01:31:50.935]: Datanode #8_87 has failed . . .
+
+[01:31:57.798]: Namenode #8 has detected a failure in Datanode #8_87
+
+[01:33:31.132]: Datanode #5_36 has failed . . .
+
+[01:33:41.893]: Namenode #5 has detected a failure in Datanode #5_36
+
+[01:35:11.255]: Datanode #5_125 has failed . . .
+
+[01:35:17.390]: Namenode #5 has detected a failure in Datanode #5_125
+
+[01:35:17.390]: Repearing node #5_125: Namenode has scheduled to repair block #2031_1, FailTime: 1453802717390
+
+[01:35:17.390]: Repearing node #5_125: Namenode has scheduled to repair block #2081_1, FailTime: 1453802717390
+
+[01:35:17.390]: Repearing node #5_125: Namenode has scheduled to repair block #2131_1, FailTime: 1453802717390
+
+[01:35:18.844]: Datanode #5_132 has received a block #2131_1, and TTR is: 1454
+
+[01:35:19.573]: Datanode #5_132 has received a block #2031_1, and TTR is: 2183
+
+[01:35:25.222]: Datanode #5_132 has received a block #2081_1, and TTR is: 7832
+
+[01:36:51.448]: Datanode #0_25 has failed . . .
+
+[01:36:57.075]: Namenode #0 has detected a failure in Datanode #0_25
+
+[01:36:57.075]: Repearing node #0_25: Namenode has scheduled to repair block #6_1, FailTime: 1453802817075
+
+[01:36:57.075]: Repearing node #0_25: Namenode has scheduled to repair block #56_1, FailTime: 1453802817075
+
+[01:36:57.075]: Repearing node #0_25: Namenode has scheduled to repair block #106_1, FailTime: 1453802817075
+
+[01:36:57.075]: Repearing node #0_25: Namenode has scheduled to repair block #156_1, FailTime: 1453802817075
+
+[01:36:57.076]: Repearing node #0_25: Namenode has scheduled to repair block #206_1, FailTime: 1453802817075
+
+[01:36:57.077]: Repearing node #0_25: Namenode has scheduled to repair block #256_1, FailTime: 1453802817075
+
+[01:36:57.077]: Repearing node #0_25: Namenode has scheduled to repair block #306_1, FailTime: 1453802817075
+
+[01:37:01.379]: Datanode #0_19 has received a block #206_1, and TTR is: 4304
+
+[01:37:04.072]: Datanode #0_19 has received a block #6_1, and TTR is: 6997
+
+[01:37:04.072]: Datanode #0_19 has received a block #106_1, and TTR is: 6997
+
+[01:37:04.072]: Datanode #0_19 has received a block #256_1, and TTR is: 6997
+
+[01:37:10.190]: Datanode #0_19 has received a block #56_1, and TTR is: 13115
+
+[01:37:10.191]: Datanode #0_19 has received a block #306_1, and TTR is: 13116
+
+[01:37:15.908]: Datanode #0_19 has received a block #156_1, and TTR is: 18833
+
+[01:38:31.684]: Datanode #0_3 has failed . . .
+
+[01:38:38.412]: Namenode #0 has detected a failure in Datanode #0_3
+
+[01:38:38.412]: Repearing node #0_3: Namenode has scheduled to repair block #0_3, FailTime: 1453802918412
+
+[01:38:38.412]: Repearing node #0_3: Namenode has scheduled to repair block #50_3, FailTime: 1453802918412
+
+[01:38:38.412]: Repearing node #0_3: Namenode has scheduled to repair block #100_3, FailTime: 1453802918412
+
+[01:38:41.720]: Datanode #0_123 has received a block #0_3, and TTR is: 3308
+
+[01:38:43.586]: Datanode #0_123 has received a block #100_3, and TTR is: 5174
+
+[01:38:47.156]: Datanode #0_123 has received a block #50_3, and TTR is: 8744
+
+[01:40:11.854]: Datanode #8_24 has failed . . .
+
+[01:40:19.579]: Namenode #8 has detected a failure in Datanode #8_24
+
+[01:40:19.580]: Repearing node #8_24: Namenode has scheduled to repair block #3206_0, FailTime: 1453803019579
+
+[01:40:19.580]: Repearing node #8_24: Namenode has scheduled to repair block #3256_0, FailTime: 1453803019579
+
+[01:40:19.581]: Repearing node #8_24: Namenode has scheduled to repair block #3306_0, FailTime: 1453803019579
+
+[01:40:21.734]: Datanode #8_123 has received a block #3206_0, and TTR is: 2155
+
+[01:40:27.984]: Datanode #8_123 has received a block #3256_0, and TTR is: 8405
+
+[01:40:33.857]: Datanode #8_123 has received a block #3306_0, and TTR is: 14278
+
+[01:41:51.983]: Datanode #1_170 has failed . . .
+
+[01:41:59.069]: Namenode #1 has detected a failure in Datanode #1_170
+
+[01:41:59.069]: Repearing node #1_170: Namenode has scheduled to repair block #442_2, FailTime: 1453803119069
+
+[01:41:59.069]: Repearing node #1_170: Namenode has scheduled to repair block #492_2, FailTime: 1453803119069
+
+[01:42:04.082]: Datanode #1_36 has received a block #442_2, and TTR is: 5013
+
+[01:42:09.078]: Datanode #1_36 has received a block #492_2, and TTR is: 10009
+
+[01:43:32.162]: Datanode #8_39 has failed . . .
+
+[01:43:41.945]: Namenode #8 has detected a failure in Datanode #8_39
+
+[01:43:41.945]: Repearing node #8_39: Namenode has scheduled to repair block #3209_3, FailTime: 1453803221945
+
+[01:43:41.946]: Repearing node #8_39: Namenode has scheduled to repair block #3259_3, FailTime: 1453803221945
+
+[01:43:44.452]: Datanode #8_44 has received a block #3209_3, and TTR is: 2507
+
+[01:43:50.885]: Datanode #8_44 has received a block #3259_3, and TTR is: 8940
+
+[01:45:12.289]: Datanode #8_37 has failed . . .
+
+[01:45:20.344]: Namenode #8 has detected a failure in Datanode #8_37
+
+[01:45:20.344]: Repearing node #8_37: Namenode has scheduled to repair block #3209_1, FailTime: 1453803320344
+
+[01:45:20.345]: Repearing node #8_37: Namenode has scheduled to repair block #3259_1, FailTime: 1453803320344
+
+[01:45:23.851]: Datanode #8_45 has received a block #3209_1, and TTR is: 3507
+
+[01:45:29.336]: Datanode #8_45 has received a block #3259_1, and TTR is: 8992
+
+[01:46:52.452]: Datanode #4_198 has failed . . .
+
+[01:47:00.184]: Namenode #4 has detected a failure in Datanode #4_198
+
+[01:48:32.567]: Datanode #4_126 has failed . . .
+
+[01:48:43.013]: Namenode #4 has detected a failure in Datanode #4_126
+
+[01:48:43.013]: Repearing node #4_126: Namenode has scheduled to repair block #1631_2, FailTime: 1453803523013
+
+[01:48:45.605]: Datanode #4_21 has received a block #1631_2, and TTR is: 2592
+
+[01:50:12.676]: Datanode #0_65 has failed . . .
+
+[01:50:17.880]: Namenode #0 has detected a failure in Datanode #0_65
+
+[01:51:52.825]: Datanode #3_81 has failed . . .
+
+[01:51:59.130]: Namenode #3 has detected a failure in Datanode #3_81
+
+[01:51:59.130]: Repearing node #3_81: Namenode has scheduled to repair block #1220_1, FailTime: 1453803719130
+
+[01:51:59.131]: Repearing node #3_81: Namenode has scheduled to repair block #1270_1, FailTime: 1453803719130
+
+[01:51:59.132]: Repearing node #3_81: Namenode has scheduled to repair block #1320_1, FailTime: 1453803719130
+
+[01:52:02.578]: Datanode #3_76 has received a block #1320_1, and TTR is: 3448
+
+[01:52:03.915]: Datanode #3_76 has received a block #1220_1, and TTR is: 4785
+
+[01:52:09.254]: Datanode #3_76 has received a block #1270_1, and TTR is: 10124
+
+[01:53:32.958]: Datanode #1_169 has failed . . .
+
+[01:53:40.983]: Namenode #1 has detected a failure in Datanode #1_169
+
+[01:53:40.983]: Repearing node #1_169: Namenode has scheduled to repair block #442_1, FailTime: 1453803820983
+
+[01:53:45.827]: Datanode #1_56 has received a block #442_1, and TTR is: 4844
+
+[01:55:13.148]: Datanode #1_179 has failed . . .
+
+[01:55:18.836]: Namenode #1 has detected a failure in Datanode #1_179
+
+[01:56:53.321]: Datanode #2_77 has failed . . .
+
+[01:57:02.826]: Namenode #2 has detected a failure in Datanode #2_77
+
+[01:57:02.826]: Repearing node #2_77: Namenode has scheduled to repair block #819_1, FailTime: 1453804022826
+
+[01:57:02.827]: Repearing node #2_77: Namenode has scheduled to repair block #869_1, FailTime: 1453804022826
+
+[01:57:02.827]: Repearing node #2_77: Namenode has scheduled to repair block #919_1, FailTime: 1453804022826
+
+[01:57:02.827]: Repearing node #2_77: Namenode has scheduled to repair block #969_1, FailTime: 1453804022826
+
+[01:57:06.724]: Datanode #2_160 has received a block #819_1, and TTR is: 3898
+
+[01:57:12.043]: Datanode #2_160 has received a block #869_1, and TTR is: 9217
+
+[01:57:18.095]: Datanode #2_160 has received a block #919_1, and TTR is: 15269
+
+[01:57:23.743]: Datanode #2_160 has received a block #969_1, and TTR is: 20917
+
+[01:58:33.493]: Datanode #5_62 has failed . . .
+
+[01:58:43.518]: Namenode #5 has detected a failure in Datanode #5_62
+
+[01:58:43.518]: Repearing node #5_62: Namenode has scheduled to repair block #2015_2, FailTime: 1453804123518
+
+[01:58:43.518]: Repearing node #5_62: Namenode has scheduled to repair block #2065_2, FailTime: 1453804123518
+
+[01:58:43.518]: Repearing node #5_62: Namenode has scheduled to repair block #2115_2, FailTime: 1453804123518
+
+[01:58:46.704]: Datanode #5_100 has received a block #2015_2, and TTR is: 3186
+
+[01:58:52.963]: Datanode #5_100 has received a block #2065_2, and TTR is: 9445
+
+[01:58:58.251]: Datanode #5_100 has received a block #2115_2, and TTR is: 14733
+
+[02:00:13.717]: Datanode #2_90 has failed . . .
+
+[02:00:23.459]: Namenode #2 has detected a failure in Datanode #2_90
+
+[02:00:23.459]: Repearing node #2_90: Namenode has scheduled to repair block #822_2, FailTime: 1453804223459
+
+[02:00:26.984]: Datanode #2_161 has received a block #822_2, and TTR is: 3525
+
+[02:01:53.890]: Datanode #9_36 has failed . . .
+
+[02:01:59.995]: Namenode #9 has detected a failure in Datanode #9_36
+
+[02:01:59.995]: Repearing node #9_36: Namenode has scheduled to repair block #3609_0, FailTime: 1453804319995
+
+[02:01:59.995]: Repearing node #9_36: Namenode has scheduled to repair block #3659_0, FailTime: 1453804319995
+
+[02:03:34.044]: Datanode #0_148 has failed . . .
+
+[02:03:40.166]: Namenode #0 has detected a failure in Datanode #0_148
+
+[02:03:40.166]: Repearing node #0_148: Namenode has scheduled to repair block #37_0, FailTime: 1453804420166
+
+[02:03:40.167]: Repearing node #0_148: Namenode has scheduled to repair block #87_0, FailTime: 1453804420166
+
+[02:03:40.167]: Repearing node #0_148: Namenode has scheduled to repair block #137_0, FailTime: 1453804420166
+
+[02:03:40.167]: Repearing node #0_148: Namenode has scheduled to repair block #187_0, FailTime: 1453804420166
+
+[02:03:43.543]: Datanode #0_12 has received a block #87_0, and TTR is: 3377
+
+[02:03:45.628]: Datanode #0_12 has received a block #187_0, and TTR is: 5462
+
+[02:03:45.628]: Datanode #0_12 has received a block #37_0, and TTR is: 5462
+
+[02:03:45.629]: Datanode #0_12 has received a block #137_0, and TTR is: 5463
+
+[02:05:14.167]: Datanode #6_173 has failed . . .
+
+[02:05:22.398]: Namenode #6 has detected a failure in Datanode #6_173
+
+[02:06:54.345]: Datanode #3_24 has failed . . .
+
+[02:07:02.050]: Namenode #3 has detected a failure in Datanode #3_24
+
+[02:07:02.050]: Repearing node #3_24: Namenode has scheduled to repair block #1206_0, FailTime: 1453804622050
+
+[02:07:02.050]: Repearing node #3_24: Namenode has scheduled to repair block #1256_0, FailTime: 1453804622050
+
+[02:07:09.507]: Datanode #3_78 has received a block #1206_0, and TTR is: 7457
+
+[02:07:10.227]: Datanode #3_78 has received a block #1256_0, and TTR is: 8177
+
+[02:08:34.566]: Datanode #5_16 has failed . . .
+
+[02:08:44.141]: Namenode #5 has detected a failure in Datanode #5_16
+
+[02:08:44.141]: Repearing node #5_16: Namenode has scheduled to repair block #2004_0, FailTime: 1453804724141
+
+[02:08:49.952]: Datanode #5_101 has received a block #2004_0, and TTR is: 5811
+
+[02:10:14.694]: Datanode #9_192 has failed . . .
+
+[02:10:20.874]: Namenode #9 has detected a failure in Datanode #9_192
+
+
+RELIABILITY : 98.95540241249347
+AVALABILITY : 99.99125759972489
+MTTR: 60530.71428571428
+DURABILITY: 100.0
