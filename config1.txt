@@ -1,0 +1,12 @@
+bandwidth=102400
+heartbeat=7000
+timeout=7
+minNumberOfReplica=2
+numberOfUsers=1000
+numberOfDatanodes=10000
+datanodeCapacity=320000
+numberOfDataitems=15000
+dataitemSize=256
+blockSize=64
+processCapacity=50
+failureRate=0.01

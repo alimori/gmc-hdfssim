@@ -1,8 +1,9 @@
-# gmc-hdfssim
-This free software is a java based simulator for replication algorithms in a geographical multi- clustered storage systems.
-software name: GMC-HDFSSim
-	           (Geographical Multi-Clustered Hadoop Distributed File System Simulator)
-************************************** description ***************************************************
+# Written by Ali Mortazavi 
+
+## software name: GMC-HDFSSim
+**(Geographical Multi-Clustered Hadoop Distributed File System Simulator)**
+
+# Description 
 This software is a simulator for geographical multi-clustered distributed storage systems.
 since there is not a complete and comprehensive simulator for algorithm which is written 
 for data management in a distributed storage system, we try to develope HDFSSim (written 
